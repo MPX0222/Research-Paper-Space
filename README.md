@@ -4,9 +4,11 @@
 ---
 
 ### 🧬 Surveys
-***1. A Survey on LLM-based Autonomous Agents***: https://github.com/Paitesanshi/LLM-Agent-Survey
+***1. A Survey of LLMs（Renmin University of China）*** : https://github.com/rucaibox/llmsurvey
 
-***2. A Survey on Multimodal Large Language Models***: https://github.com/bradyfu/awesome-multimodal-large-language-models
+***2. A Survey on LLM-based Autonomous Agents（Renmin University of China）*** : https://github.com/Paitesanshi/LLM-Agent-Survey
+
+***3. A Survey on Multimodal Large Language Models（University of Science and Technology of China & Tencent YouTu Lab）*** : https://github.com/bradyfu/awesome-multimodal-large-language-models
 
 
 ---
