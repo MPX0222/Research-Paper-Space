@@ -13,6 +13,6 @@
 
 ### 💊 Excellent Works
 
-***1. ChatGLM-6B（TsingHua University）***: https://github.com/THUDM/ChatGLM-6B
+***1. ChatGLM-6B/130B（TsingHua University）***: `Github Link` : https://github.com/THUDM/ChatGLM-6B; `Official Web Link` : https://chatglm.cn/blog
 
-***2. ChatGLM2-6B（TsingHua University）***: https://github.com/THUDM/ChatGLM2-6B
+***2. ChatGLM2-6B/12B/32B/66B/130B（TsingHua University）***: https://github.com/THUDM/ChatGLM2-6B; `Official Web Link` : https://chatglm.cn/blog
