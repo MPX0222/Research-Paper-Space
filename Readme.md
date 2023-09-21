@@ -17,15 +17,17 @@
 
 ---
 
-### 💊 Excellent Works of Application of LLMs in Dialogue Field
+### 💊 Excellent Works of Application of LLMs in Dialogue Field（Reference）
 
-***1. ChatGLM-6B/130B（TsingHua University）***: `Github Link` : https://github.com/THUDM/ChatGLM-6B ; `Official Web Link` : https://chatglm.cn/blog
+***1. ChatGLM - 6B/130B（TsingHua University）***: `Github Link` : https://github.com/THUDM/ChatGLM-6B ; `Official Web Link` : https://chatglm.cn/blog
 
-***2. ChatGLM2-6B/12B/32B/66B/130B（TsingHua University）***: https://github.com/THUDM/ChatGLM2-6B ; `Official Web Link` : https://chatglm.cn/blog
+***2. ChatGLM 2 - 6B/12B/32B/66B/130B（TsingHua University）***: https://github.com/THUDM/ChatGLM2-6B ; `Official Web Link` : https://chatglm.cn/blog
 
 ***3. Agents（AIWaves Inc. & Zhejiang University）*** : `Github Link` : https://github.com/aiwaves-cn/agents ; `Official Web Link` : http://www.aiwaves-agents.com/
 
-***4. LLaMA-7B/13B/33B/65B（FaceBook/Meta AI）*** : `Github Link` :  https://github.com/facebookresearch/llama ; `PaperWithCode Link` :  https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1
+***4. LLaMA - 7B/13B/33B/65B（FaceBook/Meta AI）*** : `Github Link` :  https://github.com/facebookresearch/llama ; `PaperWithCode Link` :  https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1
+
+***5. Baichuan 2 - 7B/13B（Baichuan Intelligent Technology）*** : `Github Link` : https://github.com/baichuan-inc/Baichuan2 ; `Official Web Link` : https://www.baichuan-ai.com/home ; `PaperWithCode Link` : https://paperswithcode.com/paper/baichuan-2-open-large-scale-language-models ;
 
 ---
 
