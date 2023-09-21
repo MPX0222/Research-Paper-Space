@@ -25,7 +25,7 @@
 
 ***3. Agents（AIWaves Inc. & Zhejiang University）*** : `Github Link` : https://github.com/aiwaves-cn/agents ; `Official Web Link` : http://www.aiwaves-agents.com/
 
-***4. LLaMA-7B/13B/33B/65B（FaceBook/Meta AI）*** : `Github Link` :  https://github.com/facebookresearch/llama
+***4. LLaMA-7B/13B/33B/65B（FaceBook/Meta AI）*** : `Github Link` :  https://github.com/facebookresearch/llama ; `PaperWithCode Link` :  https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1
 
 ---
 
