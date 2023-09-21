@@ -15,6 +15,8 @@
 
 ***4. Recent Advances in Deep Learning Based Dialogue Systems Survey（Nanyang Technological University）*** : `Paper Link` : https://arxiv.org/pdf/2105.04387.pdf
 
+***5. A Survey on Table Question Answering: Recent Advances（Harbin Institute of Technology (Shenzhen) & Peng Cheng Laboratory）*** : `Paper Link` : https://arxiv.org/pdf/2207.05270.pdf
+
 ---
 
 ### 💊 Excellent Works of Application of LLMs in Dialogue Field（Reference）
