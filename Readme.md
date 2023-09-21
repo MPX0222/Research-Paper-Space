@@ -1,7 +1,7 @@
 # LLMs-Works-View
 ***Focus on Current Works and Surveys in LLMs and its Application in Dialogue Field.***
 
-* `README.md` : Papers and Codes in Google Scholar, Baidu Scholar, Arxiv and Github.
+* `Readme.md` : Papers and Codes in Google Scholar, Baidu Scholar, Arxiv and Github.
 * `Analysis_in_CN_Internet.md` : Analysis, Reviews and Comments in Chinese Internet, including CSDN, ZhiHu, etc.
 
 ---
@@ -25,7 +25,7 @@
 
 ***3. Agents（AIWaves Inc. & Zhejiang University）*** : `Github Link` : https://github.com/aiwaves-cn/agents ; `Official Web Link` : http://www.aiwaves-agents.com/
 
-***4. LLaMA（FaceBook/Meta AI）*** : `Github Link` :  https://github.com/facebookresearch/llama
+***4. LLaMA-7B/13B/33B/65B（FaceBook/Meta AI）*** : `Github Link` :  https://github.com/facebookresearch/llama
 
 ---
 
