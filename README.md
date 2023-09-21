@@ -1,6 +1,9 @@
 # LLMs-Works-View
 ***Focus on Current Works and Surveys in LLMs and its Application in Dialogue Field.***
 
+* `README.md` : Papers and Codes in Google Scholar, Baidu Scholar, Arxiv and Github.
+* `Analysis_in_CN_Internet.md` : Analysis, Reviews and Comments in Chinese Internet, including CSDN, ZhiHu, etc.
+
 ---
 
 ### 🧬 Surveys
