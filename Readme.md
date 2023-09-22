@@ -17,6 +17,8 @@
 
 ***5. A Survey on Table Question Answering: Recent Advances（Harbin Institute of Technology (Shenzhen) & Peng Cheng Laboratory）*** : `Paper Link` : https://arxiv.org/pdf/2207.05270.pdf
 
+***6. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing（Carnegie Mellon University & National University of Singapore）*** : `Github Link` : https://github.com/mingkaid/rl-prompt ; `Paper Link` : https://dl.acm.org/doi/pdf/10.1145/3560815
+
 ---
 
 ### 💊 Excellent Works of Application of LLMs in Dialogue Field（Reference）
