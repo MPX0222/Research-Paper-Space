@@ -21,6 +21,10 @@
 
 ***7. Talking with Machines: A Comprehensive Survey of Emergent Dialogue Systems（University of California, Berkeley）*** : `Paper Link` : https://arxiv.org/pdf/2305.16324.pdf
 
+***8. Reasoning with Language Model Prompting: A Survey（Zhejiang University）*** : `Github Link` : https://github.com/zjunlp/Prompt4ReasoningPapers ; `Paper Link` : https://arxiv.org/pdf/2212.09597.pdf
+
+***9. A Survey on Evaluation of Large Language Models（Jilin University & Microsoft）*** : `Github Link` : https://github.com/mlgroupjlu/llm-eval-survey ; `Paper Link` : https://arxiv.org/pdf/2307.03109v7.pdf
+
 ---
 
 ### 💊 Excellent Works of Application of LLMs in Dialogue Field（Reference）
