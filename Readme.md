@@ -39,4 +39,15 @@
 
 ### ⛱ Open Datasets for LLMs in Dialogue System Training and Fine-tuning
 
-***1.***
+***1. Schema Guided Dialogue/SGD（Google, 2020）*** : `Paper Link` : https://ojs.aaai.org/index.php/AAAI/article/view/6394 ; `Github Link` : https://github.com/google-research-datasets/dstc8-schema-guided-dialogue ; `PaperWithCode Link` : https://paperswithcode.com/paper/towards-scalable-multi-domain-conversational
+
+***2. MultiWoZ*** : `Paper Link` : https://aclanthology.org/D18-1547/ ; `Github Link` : https://github.com/budzianowski/multiwoz ; `PaperWithCode Link` : https://paperswithcode.com/paper/multiwoz-a-large-scale-multi-domain-wizard-of-1
+
+***3. GlobalWoZ*** : `Paper Link` : https://arxiv.org/pdf/2110.07679.pdf ; `Github Link` : https://github.com/bosheng2020/globalwoz ; `PaperWithCode Link` : https://paperswithcode.com/paper/globalwoz-globalizing-multiwoz-to-develop
+
+***4. SciNLI*** : `Paper Link` : https://arxiv.org/pdf/2203.06728v2.pdf ; `Github Link` : https://github.com/msadat3/scinli ; `PaperWithCode Link` : https://paperswithcode.com/paper/scinli-a-corpus-for-natural-language
+
+***5. SciBERT*** : `Paper Link` : https://arxiv.org/pdf/1903.10676v3.pdf ; `Github Link` : https://github.com/allenai/scibert ; `PaperWithCode Link` : https://paperswithcode.com/paper/scibert-pretrained-contextualized-embeddings
+
+***6. The Pile*** : `Paper Link` : https://arxiv.org/pdf/2101.00027v1.pdf ; `Github Link` : https://github.com/EleutherAI/The-Pile ; `PaperWithCode Link` : https://paperswithcode.com/paper/the-pile-an-800gb-dataset-of-diverse-text-for
+
