@@ -7,11 +7,11 @@
 ---
 
 ### 🧬 Surveys
-***1. A Survey of LLMs（Renmin University of China）*** : `Github Link` : https://github.com/rucaibox/llmsurvey
+***1. A Survey of LLMs（Renmin University of China）*** : `Github Link` : https://github.com/rucaibox/llmsurvey ; `Paper Link` : 
 
-***2. A Survey on LLM-based Autonomous Agents（Renmin University of China）*** : `Github Link` : https://github.com/Paitesanshi/LLM-Agent-Survey
+***2. A Survey on LLM-based Autonomous Agents（Renmin University of China）*** : `Github Link` : https://github.com/Paitesanshi/LLM-Agent-Survey ; `Paper Link` : https://arxiv.org/pdf/2308.11432.pdf
 
-***3. A Survey on Multimodal Large Language Models（University of Science and Technology of China & Tencent YouTu Lab）*** : `Github Link` : https://github.com/bradyfu/awesome-multimodal-large-language-models
+***3. A Survey on Multimodal Large Language Models（University of Science and Technology of China & Tencent YouTu Lab）*** : `Github Link` : https://github.com/bradyfu/awesome-multimodal-large-language-models ; `Paper Link` : 
 
 ***4. Recent Advances in Deep Learning Based Dialogue Systems Survey（Nanyang Technological University）*** : `Paper Link` : https://arxiv.org/pdf/2105.04387.pdf
 
