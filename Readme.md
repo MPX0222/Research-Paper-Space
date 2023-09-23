@@ -68,6 +68,13 @@
 > |-------------|------------|--------------------|------------|
 > | [Github-Page](https://github.com/mlgroupjlu/llm-eval-survey) | [Arxiv-Page](https://arxiv.org/pdf/2307.03109v7.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-on-evaluation-of-large-language) | ✔ |
 
+
+***10. Evaluating Open-QA Evaluation（Westlake University & Northeastern University, 2023）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Is Read? |
+> |-------------|------------|--------------------|------------|
+> | [Github-Page](https://github.com/wangcunxiang/qa-eval) | [Arxiv-Page](https://arxiv.org/pdf/2305.12421v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/evaluating-open-question-answering-evaluation) | ✔ |
+
 ---
 
 ### 💊 Excellent Works of Application of LLMs in Dialogue Field（Reference）
