@@ -17,56 +17,56 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|-------------|
-> | https://github.com/rucaibox/llmsurvey | https://arxiv.org/abs/2303.18223 | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-of-large-language-models) | ✔ |
+> | [Github-Page](https://github.com/rucaibox/llmsurvey) | [Arxiv-Page](https://arxiv.org/abs/2303.18223) | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-of-large-language-models) | ✔ |
 
 
 ***2. A Survey on LLM-based Autonomous Agents（Renmin University of China）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|-------------|
-> | https://github.com/Paitesanshi/LLM-Agent-Survey | https://arxiv.org/pdf/2308.11432.pdf | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-on-large-language-model-based)  |
+> | [Github-Page](https://github.com/Paitesanshi/LLM-Agent-Survey) | [Arxiv-Page](https://arxiv.org/pdf/2308.11432.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-on-large-language-model-based)  |
 
 ***3. A Survey on Multimodal Large Language Models（University of Science and Technology of China & Tencent YouTu Lab）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|-------------|
-> |  [https://github.com/bradyfu/awesome-multimodal...](https://github.com/bradyfu/awesome-multimodal-large-language-models) | https://arxiv.org/pdf/2306.13549v1.pdf  | [PaperWithCode-Page ](https://paperswithcode.com/paper/a-survey-on-multimodal-large-language-models)     |
+> | [Github-Page](https://github.com/bradyfu/awesome-multimodal-large-language-models) | [Arxiv-Page](https://arxiv.org/pdf/2306.13549v1.pdf)  | [PaperWithCode-Page ](https://paperswithcode.com/paper/a-survey-on-multimodal-large-language-models)     |
 
 ***4. Recent Advances in Deep Learning Based Dialogue Systems Survey（Nanyang Technological University）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|-------------|
-> | NO GITHUB CODE | https://arxiv.org/pdf/2105.04387.pdf  |            PaperWithCode-Page        |
+> | NO GITHUB CODE | [Arxiv-Page](https://arxiv.org/pdf/2105.04387.pdf)  |            PaperWithCode-Page        |
 
 ***5. A Survey on Table Question Answering: Recent Advances（Harbin Institute of Technology (Shenzhen) & Peng Cheng Laboratory）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|-------------|
-> | NO GITHUB CODE | https://arxiv.org/pdf/2207.05270.pdf  |  [PaperWithCode-Page ](https://paperswithcode.com/paper/a-survey-on-table-question-answering-recent)    |
+> | NO GITHUB CODE | [Arxiv-Page](https://arxiv.org/pdf/2207.05270.pdf)  |  [PaperWithCode-Page ](https://paperswithcode.com/paper/a-survey-on-table-question-answering-recent)    |
 
 ***6. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing（Carnegie Mellon University & National University of Singapore）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|-------------|
-> |https://github.com/mingkaid/rl-prompt|https://dl.acm.org/doi/pdf/10.1145/3560815| [PaperWithCode-Page](https://github.com/mingkaid/rl-prompt)  | 
+> | [Github-Page](https://github.com/mingkaid/rl-prompt) | [Arxiv-Page](https://dl.acm.org/doi/pdf/10.1145/3560815) | [PaperWithCode-Page](https://github.com/mingkaid/rl-prompt)  | 
 
 ***7. Talking with Machines: A Comprehensive Survey of Emergent Dialogue Systems（University of California, Berkeley）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|-------------|
-> | NO GITHUB CODE | https://arxiv.org/pdf/2305.16324.pdf| [PaperWithCode-Page](https://paperswithcode.com/paper/talking-with-machines-a-comprehensive-survey)  |
+> | NO GITHUB CODE | [Arxiv-Page](https://arxiv.org/pdf/2305.16324.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/talking-with-machines-a-comprehensive-survey)  |
 
 ***8. Reasoning with Language Model Prompting: A Survey（Zhejiang University）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|-------------|
-> |https://github.com/zjunlp/Prompt4ReasoningPapers|https://arxiv.org/pdf/2212.09597.pdf |            PaperWithCode-Page        |
+> | [Github-Page](https://github.com/zjunlp/Prompt4ReasoningPapers) | [Arxiv-Page](https://arxiv.org/pdf/2212.09597.pdf) |            PaperWithCode-Page        |
 
 ***9. A Survey on Evaluation of Large Language Models（Jilin University & Microsoft, 2023）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
-> |https://github.com/mlgroupjlu/llm-eval-survey| https://arxiv.org/pdf/2307.03109v7.pdf | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-on-evaluation-of-large-language) | ✔ |
+> | [Github-Page](https://github.com/mlgroupjlu/llm-eval-survey) | [Arxiv-Page](https://arxiv.org/pdf/2307.03109v7.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-on-evaluation-of-large-language) | ✔ |
 
 ---
 
