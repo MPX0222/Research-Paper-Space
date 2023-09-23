@@ -15,7 +15,7 @@
 
 > | Github Link | Paper Link | PaperWithCode Link |
 > |-------------|------------|--------------------|
-> | https://github.com/rucaibox/llmsurvey            |            |                    |
+> | https://github.com/rucaibox/llmsurvey | https://arxiv.org/abs/2303.18223 | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-of-large-language-models) |
 
 
 ***2. A Survey on LLM-based Autonomous Agents（Renmin University of China）*** : 
