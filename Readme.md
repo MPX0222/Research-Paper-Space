@@ -68,7 +68,7 @@
 > |-------------|------------|--------------------|------------|
 > | [Github-Page](https://github.com/mlgroupjlu/llm-eval-survey) | [Arxiv-Page](https://arxiv.org/pdf/2307.03109v7.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-on-evaluation-of-large-language) | ✔ |
 
-***10. Evaluating Open-QA Evaluation（Westlake University & Northeastern University, 2023）*** : 
+***10. Evaluating Open-QA Evaluation（Westlake University & Northeastern University, 2022）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
@@ -76,7 +76,7 @@
 >
 >  ***Summarize** : Survey and Evaluation of QA-System*
 
-***11. A Survey on In-context Learning （Westlake University & Northeastern University, 2023）*** : 
+***11. A Survey on In-context Learning （Peking University & Shanghai AI Lab, 2023）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
