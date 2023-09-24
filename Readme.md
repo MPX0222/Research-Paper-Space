@@ -50,7 +50,7 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|-------------|
-> | [Github-Page](https://github.com/mingkaid/rl-prompt) | [Arxiv-Page](https://dl.acm.org/doi/pdf/10.1145/3560815) | [PaperWithCode-Page](https://github.com/mingkaid/rl-prompt)  | 
+> | [Github-Page](https://github.com/mingkaid/rl-prompt) | [Arxiv-Page](https://dl.acm.org/doi/pdf/10.1145/3560815) | [PaperWithCode-Page](https://github.com/mingkaid/rl-prompt)  | ✔ |
 
 ***7. Talking with Machines: A Comprehensive Survey of Emergent Dialogue Systems（University of California, Berkeley）*** : 
 
@@ -85,6 +85,17 @@
 > | [Github-Page](https://github.com/dqxiu/icl_paperlist) | [Arxiv-Page](https://arxiv.org/pdf/2301.00234v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-for-in-context-learning) | ✔ |
 >
 >  ***Summarize** : Survey and Evaluation of ICL*
+
+---
+
+
+***12. The Rise and Potential of Large Language Model Based Agents: A Survey（Fudan University, 2023）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Is Read? |
+> |-------------|------------|--------------------|------------|
+> | [Github-Page](https://github.com/woooodyy/llm-agent-paper-list) | [Arxiv-Page](https://arxiv.org/pdf/2309.07864v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/the-rise-and-potential-of-large-language) |  |
+>
+>  ***Summarize** :*
 
 ---
 
