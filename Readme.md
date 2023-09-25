@@ -14,6 +14,15 @@
 
 ---
 
+### ⏳ Directory（Updated at 2023.09.25）
+
+* [📙 Books](https://github.com/MPX0222/LLMs-Works-View/edit/main/Readme.md#-books)
+* [🧬 Surveys](https://github.com/MPX0222/LLMs-Works-View/edit/main/Readme.md#-surveys)
+* [💊 Excellent Works of Application of LLMs in Dialogue Field（Reference）](https://github.com/MPX0222/LLMs-Works-View/edit/main/Readme.md#-excellent-works-of-application-of-llms-in-dialogue-fieldreference)
+* [⛱ Open Datasets for LLMs in Dialogue System Training and Fine-tunin](https://github.com/MPX0222/LLMs-Works-View/edit/main/Readme.md#-open-datasets-for-llms-in-dialogue-system-training-and-fine-tuning)
+
+---
+
 ### 📙 Books
 ***1. 大规模语言模型：从理论到实践（复旦大学自然语言处理实验室，2023.09.10 v1）*** : 
 
