@@ -91,7 +91,7 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
-> | [Github-Page](https://github.com/woooodyy/llm-agent-paper-list) | [Arxiv-Page](https://arxiv.org/pdf/2309.07864v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/the-rise-and-potential-of-large-language) |  |
+> | [Github-Page](https://github.com/woooodyy/llm-agent-paper-list) | [Arxiv-Page](https://arxiv.org/pdf/2309.07864v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/the-rise-and-potential-of-large-language) | ✔ |
 >
 >  ***Summarize** :*
 
@@ -149,15 +149,52 @@
 
 ### ⛱ Open Datasets for LLMs in Dialogue System Training and Fine-tuning
 
-***1. Schema Guided Dialogue/SGD（Google, 2020）*** : `Paper Link` : https://ojs.aaai.org/index.php/AAAI/article/view/6394 ; `Github Link` : https://github.com/google-research-datasets/dstc8-schema-guided-dialogue ; `PaperWithCode Link` : https://paperswithcode.com/paper/towards-scalable-multi-domain-conversational
+***1. Schema Guided Dialogue/SGD（Google, 2020）*** : 
 
-***2. MultiWoZ*** : `Paper Link` : https://aclanthology.org/D18-1547/ ; `Github Link` : https://github.com/budzianowski/multiwoz ; `PaperWithCode Link` : https://paperswithcode.com/paper/multiwoz-a-large-scale-multi-domain-wizard-of-1
+> | Github Link | Paper Link | PaperWithCode Link | Task |
+> |-------------|------------|--------------------|------------|
+> | [Github-Page](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) | [Arxiv-Page](https://ojs.aaai.org/index.php/AAAI/article/view/6394) | [PaperWithCode-Page](https://paperswithcode.com/paper/towards-scalable-multi-domain-conversational) |  |
+>
+>  ***Summarize** :*
 
-***3. GlobalWoZ*** : `Paper Link` : https://arxiv.org/pdf/2110.07679.pdf ; `Github Link` : https://github.com/bosheng2020/globalwoz ; `PaperWithCode Link` : https://paperswithcode.com/paper/globalwoz-globalizing-multiwoz-to-develop
 
-***4. SciNLI*** : `Paper Link` : https://arxiv.org/pdf/2203.06728v2.pdf ; `Github Link` : https://github.com/msadat3/scinli ; `PaperWithCode Link` : https://paperswithcode.com/paper/scinli-a-corpus-for-natural-language
+***2. MultiWoZ*** :
 
-***5. SciBERT*** : `Paper Link` : https://arxiv.org/pdf/1903.10676v3.pdf ; `Github Link` : https://github.com/allenai/scibert ; `PaperWithCode Link` : https://paperswithcode.com/paper/scibert-pretrained-contextualized-embeddings
+> | Github Link | Paper Link | PaperWithCode Link | Task |
+> |-------------|------------|--------------------|------------|
+> | [Github-Page](https://github.com/budzianowski/multiwoz) | [Arxiv-Page](https://aclanthology.org/D18-1547/) | [PaperWithCode-Page](https://paperswithcode.com/paper/multiwoz-a-large-scale-multi-domain-wizard-of-1) |  |
+>
+>  ***Summarize** :*
 
-***6. The Pile*** : `Paper Link` : https://arxiv.org/pdf/2101.00027v1.pdf ; `Github Link` : https://github.com/EleutherAI/The-Pile ; `PaperWithCode Link` : https://paperswithcode.com/paper/the-pile-an-800gb-dataset-of-diverse-text-for
+***3. GlobalWoZ*** :
+
+> | Github Link | Paper Link | PaperWithCode Link | Task |
+> |-------------|------------|--------------------|------------|
+> | [Github-Page](https://github.com/bosheng2020/globalwoz) | [Arxiv-Page](https://arxiv.org/pdf/2110.07679.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/globalwoz-globalizing-multiwoz-to-develop) |  |
+>
+>  ***Summarize** :*
+
+***4. SciNLI*** :
+
+> | Github Link | Paper Link | PaperWithCode Link | Task |
+> |-------------|------------|--------------------|------------|
+> | [Github-Page](https://github.com/msadat3/scinli) | [Arxiv-Page](https://arxiv.org/pdf/2203.06728v2.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/scinli-a-corpus-for-natural-language) |  |
+>
+>  ***Summarize** :*
+
+***5. SciBERT*** :
+
+> | Github Link | Paper Link | PaperWithCode Link | Task |
+> |-------------|------------|--------------------|------------|
+> | [Github-Page](https://github.com/allenai/scibert) | [Arxiv-Page](https://arxiv.org/pdf/1903.10676v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/scibert-pretrained-contextualized-embeddings) |  |
+>
+>  ***Summarize** :*
+
+***6. The Pile*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Task |
+> |-------------|------------|--------------------|------------|
+> | [Github-Page](https://github.com/EleutherAI/The-Pile) | [Arxiv-Page](https://arxiv.org/pdf/2101.00027v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/the-pile-an-800gb-dataset-of-diverse-text-for) |  |
+>
+>  ***Summarize** :*
 
