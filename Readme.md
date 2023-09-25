@@ -101,19 +101,19 @@
 
 ### 💊 Excellent Works of Application of LLMs in Dialogue Field（Reference）
 
-***1. ChatGLM - 6B/130B（TsingHua University）***: 
+***1. ChatGLM - 6B/130B（TsingHua University, 2023）***: 
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
-> | [Github-Page](https://github.com/THUDM/ChatGLM-6B) | Arxiv-Page | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | |
+> | [Github-Page](https://github.com/THUDM/ChatGLM-6B) | [Arxiv-Page(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv-Page(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | |
 >
 >  ***Summarize** : None*
 
-***2. ChatGLM 2 - 6B/12B/32B/66B/130B（TsingHua University）***: 
+***2. ChatGLM 2 - 6B/12B/32B/66B/130B（TsingHua University, 2023）***: 
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
-> | [Github-Page](https://github.com/THUDM/ChatGLM2-6B) | Arxiv-Page | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | |
+> | [Github-Page](https://github.com/THUDM/ChatGLM2-6B) | [Arxiv-Page(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv-Page(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | |
 >
 >  ***Summarize** : None*
 
