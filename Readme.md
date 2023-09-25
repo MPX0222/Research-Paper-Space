@@ -14,6 +14,15 @@
 
 ---
 
+### 📙 Books
+***1. 大规模语言模型：从理论到实践（复旦大学自然语言处理实验室，2023.09.10 v1）*** : 
+
+> | Github Link | Paper Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|-------------|
+> | [Github-Page](https://github.com/intro-llm/intro-llm.github.io) | [PDF-Page](https://intro-llm.github.io/chapter/LLM-TAP.pdf) <br> [BaiDuNetDisk-Page](https://pan.baidu.com/s/1smGQ5ECzDIpvZladuCE59g?pwd=jyz6) | [OfficialWebsite-Page](https://intro-llm.github.io/#chapter) | ✔ |
+>
+> ***Summarize** : None*
+
 ### 🧬 Surveys
 ***1. A Survey of LLMs（Renmin University of China, 2023）*** : 
 
