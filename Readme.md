@@ -104,7 +104,7 @@
 > |-------------|------------|--------------------|------------|
 > | [Github-Page](https://github.com/woooodyy/llm-agent-paper-list) | [Arxiv-Page](https://arxiv.org/pdf/2309.07864v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/the-rise-and-potential-of-large-language) | ✔ |
 >
->  ***Summarize** :*
+>  ***Summarize** : Survey of LLM-based Agents. The idea and demonstration of the LLM-based Multi-Agent System is extremely inspired.*
 
 ---
 
