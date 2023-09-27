@@ -24,7 +24,7 @@
 > ***Summarize** : None*
 
 ### 🧬 Surveys
-***1. A Survey of LLMs（Renmin University of China, 2023）*** : 
+***1. A Survey of LLMs（Renmin University of China, 2023.03）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|-------------|
@@ -75,13 +75,13 @@
 > |-------------|------------|--------------------|-------------|
 > | [Github-Page](https://github.com/zjunlp/Prompt4ReasoningPapers) | [Arxiv-Page](https://arxiv.org/pdf/2212.09597.pdf) |            PaperWithCode-Page        |
 
-***9. A Survey on Evaluation of Large Language Models（Jilin University & Microsoft, 2023）*** : 
+***9. A Survey on Evaluation of Large Language Models（Jilin University & Microsoft, 2023.08）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
 > | [Github-Page](https://github.com/mlgroupjlu/llm-eval-survey) | [Arxiv-Page](https://arxiv.org/pdf/2307.03109v7.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-on-evaluation-of-large-language) | ✔ |
 
-***10. Evaluating Open-QA Evaluation（Westlake University & Northeastern University, 2022）*** : 
+***10. Evaluating Open-QA Evaluation（Westlake University & Northeastern University, 2023.08）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
@@ -89,7 +89,7 @@
 >
 >  ***Summarize** : Survey and Evaluation of QA-System*
 
-***11. A Survey on In-context Learning （Peking University & Shanghai AI Lab, 2023）*** : 
+***11. A Survey on In-context Learning （Peking University & Shanghai AI Lab, 2023.06）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
@@ -98,13 +98,21 @@
 >  ***Summarize** : Survey and Evaluation of ICL*
 
 
-***12. The Rise and Potential of Large Language Model Based Agents: A Survey（Fudan University, 2023）*** : 
+***12. The Rise and Potential of Large Language Model Based Agents: A Survey（Fudan University, 2023.09）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
 > | [Github-Page](https://github.com/woooodyy/llm-agent-paper-list) | [Arxiv-Page](https://arxiv.org/pdf/2309.07864v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/the-rise-and-potential-of-large-language) | ✔ |
 >
 >  ***Summarize** : Survey of LLM-based Agents. The idea and demonstration of the LLM-based Multi-Agent System is extremely inspired.*
+
+***13. Data-centric Artificial Intelligence: A Survey （Rice University & Texas A&M University, 2023.07）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Is Read? |
+> |-------------|------------|--------------------|------------|
+> | [Github-Page](https://github.com/daochenzha/data-centric-ai) | [Arxiv-Page](https://arxiv.org/pdf/2303.10158v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/data-centric-artificial-intelligence-a-survey) |  |
+>
+>  ***Summarize** : None.*
 
 ---
 
