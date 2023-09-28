@@ -110,9 +110,18 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
-> | [Github-Page](https://github.com/daochenzha/data-centric-ai) | [Arxiv-Page](https://arxiv.org/pdf/2303.10158v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/data-centric-artificial-intelligence-a-survey) |  |
+> | [Github-Page](https://github.com/daochenzha/data-centric-ai) | [Arxiv-Page](https://arxiv.org/pdf/2303.10158v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/data-centric-artificial-intelligence-a-survey) | ✔ |
 >
->  ***Summarize** : None.*
+>  ***Summarize** : A survey about theories, process flows, augmentations, benchmarks and etc of data. In this paper, the concept and demonstration of Data-centric Artificial Intelligence instead of Data-driven Artificial Intelligence is very inspired. As the saying goes that Model determine the lower limit of the performance and the data determine the upper limit. In my view, the process, methods and tricks of processing original or raw data, or Data Engineering should be given the same status as Model Construction in the Solution.*
+
+
+***14. Aligning Large Language Models with Human: A Survey , 2023.07）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Is Read? |
+> |-------------|------------|--------------------|------------|
+> | [Github-Page](https://github.com/garyyufei/alignllmhumansurvey) | [Arxiv-Page](https://arxiv.org/pdf/2307.12966v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/aligning-large-language-models-with-human-a) |  |
+>
+>  ***Summarize** :*
 
 ---
 
