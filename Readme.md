@@ -115,7 +115,7 @@
 >  ***Summarize** : A survey about theories, process flows, augmentations, benchmarks and etc of data. In this paper, the concept and demonstration of Data-centric Artificial Intelligence instead of Data-driven Artificial Intelligence is very inspired. As the saying goes that Model determine the lower limit of the performance and the data determine the upper limit. In my view, the process, methods and tricks of processing original or raw data, or Data Engineering should be given the same status as Model Construction in the Solution.*
 
 
-***14. Aligning Large Language Models with Human: A Survey （Rice, 2023.07）*** : 
+***14. Aligning Large Language Models with Human: A Survey （Huawei Noah's Ark Lab, 2023.07）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
