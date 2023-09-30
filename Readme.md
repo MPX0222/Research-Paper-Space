@@ -119,7 +119,7 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
-> | [Github-Page](https://github.com/garyyufei/alignllmhumansurvey) | [Arxiv-Page](https://arxiv.org/pdf/2307.12966v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/aligning-large-language-models-with-human-a) |  |
+> | [Github-Page](https://github.com/garyyufei/alignllmhumansurvey) | [Arxiv-Page](https://arxiv.org/pdf/2307.12966v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/aligning-large-language-models-with-human-a) | ✔ |
 >
 >  ***Summarize** :*
 
