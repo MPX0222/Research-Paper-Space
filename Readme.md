@@ -128,9 +128,9 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
-> | Github-Page | [Arxiv-Page](https://arxiv.org/pdf/2309.15698v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/deep-model-fusion-a-survey) |  |
+> | Github-Page | [Arxiv-Page](https://arxiv.org/pdf/2309.15698v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/deep-model-fusion-a-survey) | ✔ |
 >
->  ***Summarize** :*
+>  ***Summarize** :Excellient thesis that conclude most deep model fusion methods.*
 
 ---
 
