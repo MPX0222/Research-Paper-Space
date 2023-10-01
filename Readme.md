@@ -132,9 +132,18 @@
 >
 >  ***Summarize** :Excellient thesis that conclude most deep model fusion methods.*
 
+
+***16. Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf（Tsinghua University, 2023.09）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Is Read? |
+> |-------------|------------|--------------------|------------|
+> | Github-Page | [Arxiv-Page](https://arxiv.org/pdf/2309.04658v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/exploring-large-language-models-for) |  |
+>
+>  ***Summarize** :An paper about Multi-Agents.*
+
 ---
 
-### 💊 Excellent Works of Application of LLMs in Dialogue Field（Reference）
+### 💊 Excellent Works of Application of LLMs（Reference）
 
 ***1. ChatGLM - 6B/130B（TsingHua University, 2023）***: 
 
@@ -180,6 +189,7 @@
 > | [Github-Page](https://github.com/baichuan-inc/Baichuan2) | Arxiv-Page | [PaperWithCode-Page](https://paperswithcode.com/paper/baichuan-2-open-large-scale-language-models)  |[OfficialWeb-Page](https://www.baichuan-ai.com/home) | |
 >
 >  ***Summarize** : None*
+
 
 
 ---
