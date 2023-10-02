@@ -151,7 +151,7 @@
 > |-------------|------------|--------------------|--------------------|------------|
 > | [Github-Page](https://github.com/THUDM/ChatGLM-6B) | [Arxiv-Page(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv-Page(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | GLM-130B ✔ <br> GLM ✔ |
 >
->  ***Summarize** : None*
+>  ***Summarize** : GLM and GLM-130B faced a lot of challenge when it was firstly proposed, including Lack of CPUs and GPUs, Lack of a Robust Pre-Training Methods, Lack of fast inference solution especially in low computing resources. TsingHua Researchers proposed the training details GLM-130B aiming to provide others a reference about how to train a Large Language Model(100B-Scale), because "It is not easy to train a Large Language Model". GLM-130B use GLM as the backbone, with the methods of Layer Norm, Positional Encoding, FFNs. In the Training Stability Stage, Mixed-Precision(FP16 & FP32) and Embedding Layer Gradient Shrink is used. In addition, GLM-130B was distrubuted in 96 NVIDIA A100-40GB for training(60 Days). In this process, Research teams usually faced the challenges of the lack of GPUs(Even they gained some support from several platforms, they have to edit their codes to fit these platforms or even re-code in C++). Therefore, in the inference stage of GLM-130B, researchers use INT8 and even INT4 to quantize the model weights and the activations, which makes the model can run the inference on RTX 2080Ti.*
 
 ***2. ChatGLM 2 - 6B/12B/32B/66B/130B（TsingHua University, 2023）***: 
 
@@ -159,7 +159,7 @@
 > |-------------|------------|--------------------|--------------------|------------|
 > | [Github-Page](https://github.com/THUDM/ChatGLM2-6B) | [Arxiv-Page(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv-Page(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | GLM-130B ✔ <br> GLM ✔ |
 >
->  ***Summarize** : None*
+>  ***Summarize** : Check the background and introduction of GLM and GLM-130B in the summarize of ChatGLM*
 
 
 ***3. Agents（AIWaves Inc. & Zhejiang University）*** : 
