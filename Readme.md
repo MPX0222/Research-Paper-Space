@@ -130,7 +130,7 @@
 > |-------------|------------|--------------------|------------|
 > | Github-Page | [Arxiv-Page](https://arxiv.org/pdf/2309.15698v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/deep-model-fusion-a-survey) | ✔ |
 >
->  ***Summarize** :Excellient thesis that conclude most deep model fusion methods.*
+>  ***Summarize** :Excellient thesis that conclude most deep model fusion methods. The existing methods are summarized into four categories: Mode Connectivity, Alignment, Weight Average, Ensemble Learning, whick contains well-known applications in the past 10 years. Each category is demonstrated by academic terms and formulas. It is the first thesis that the work of deep model fusion in these years are complete summarized. In addition, it is worth noting that the chapter of Alignment is similar to the thesis [14. Aligning Large Language Models with Human: A Survey （Huawei Noah's Ark Lab, 2023.07）](https://arxiv.org/pdf/2307.12966v1.pdf). The former focused on the whole development and most practical techniques of Alignment and the later layed emphasis on the Alignment in Large Language model.*
 
 
 ***16. Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf（Tsinghua University, 2023.09）*** : 
