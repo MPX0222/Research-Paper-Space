@@ -30,7 +30,7 @@
 > |-------------|------------|--------------------|-------------|
 > | [Github-Page](https://github.com/rucaibox/llmsurvey) | [Arxiv-Page](https://arxiv.org/abs/2303.18223) | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-of-large-language-models) | ✔ |
 >
-> ***Summarize** : A Brief and Comprehensive Introduction of Large Language Models, including Application Fields, Evaluations, Training Methods, Shortage, etc.*
+> ***Summarize** : A Brief and Comprehensive Introduction of Large Language Models, including Application Fields, Evaluations, Training Methods, Shortage, etc. This thesis elaborated the background and timeline of the LLMs comprehensively. Some Table and Graphs are used to conclude and demonstrate the detail of these Large Language Models. In addition, the thesis explored the training and inference process of the LLMs, showing the relationship and dependency of LLMs and hardwares, such as CPUs and GPUs. Application and Related Method of Large Language Models is expressed in a large chapter, including QA-system, In-context Learning Method, LLMs-based Agents, etc.*
 
 
 ***2. A Survey on LLM-based Autonomous Agents（Renmin University of China）*** : 
@@ -57,11 +57,14 @@
 > |-------------|------------|--------------------|-------------|
 > | NO GITHUB CODE | [Arxiv-Page](https://arxiv.org/pdf/2207.05270.pdf)  |  [PaperWithCode-Page ](https://paperswithcode.com/paper/a-survey-on-table-question-answering-recent)    |
 
-***6. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing（Carnegie Mellon University & National University of Singapore）*** : 
+***6. Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing（Carnegie Mellon University & National University of Singapore, 2023.01）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|-------------|
 > | [Github-Page](https://github.com/mingkaid/rl-prompt) | [Arxiv-Page](https://dl.acm.org/doi/pdf/10.1145/3560815) | [PaperWithCode-Page](https://github.com/mingkaid/rl-prompt)  | ✔ |
+>
+>  ***Summarize** : A survey of Prompting methods applied in NLP.*
+
 
 ***7. Talking with Machines: A Comprehensive Survey of Emergent Dialogue Systems（University of California, Berkeley）*** : 
 
