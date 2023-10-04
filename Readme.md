@@ -30,7 +30,7 @@
 > |-------------|------------|--------------------|-------------|
 > | [Github-Page](https://github.com/rucaibox/llmsurvey) | [Arxiv-Page](https://arxiv.org/abs/2303.18223) | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-of-large-language-models) | ✔ |
 >
-> ***Summarize** : A Brief and Comprehensive Introduction of Large Language Models, including Application Fields, Evaluations, Training Methods, Shortage, etc. This thesis elaborated the background and timeline of the LLMs comprehensively. Some Table and Graphs are used to conclude and demonstrate the detail of these Large Language Models. In addition, the thesis explored the training and inference process of the LLMs, showing the relationship and dependency of LLMs and hardwares, such as CPUs and GPUs. Application and Related Method of Large Language Models is expressed in a large chapter, including QA-system, In-context Learning Method, LLMs-based Agents, etc.*
+> ***Summarize** : A Brief and Comprehensive Introduction of Large Language Models, including Application Fields, Evaluations, Training Methods, Shortage, etc. This thesis elaborated the background and timeline of the LLMs comprehensively. Some Table and Graphs are used to conclude and demonstrate the detail of these Large Language Models. In addition, the thesis explored the training and inference process of the LLMs, showing the relationship and dependency of LLMs and hardwares, such as CPUs and GPUs. Application and Related Method of Large Language Models is expressed in a large chapter, including QA-system, In-context Learning Method, LLMs-based Agents, etc. For example, this paper provide a total introduction of In-Context Learning and Alignment.*
 
 
 ***2. A Survey on LLM-based Autonomous Agents（Renmin University of China）*** : 
@@ -63,7 +63,7 @@
 > |-------------|------------|--------------------|-------------|
 > | [Github-Page](https://github.com/mingkaid/rl-prompt) | [Arxiv-Page](https://dl.acm.org/doi/pdf/10.1145/3560815) | [PaperWithCode-Page](https://github.com/mingkaid/rl-prompt)  | ✔ |
 >
->  ***Summarize** : A survey of Prompting methods applied in NLP.*
+>  ***Summarize** : A survey of Prompting methods applied in NLP. In this thesis, there are 4 paradigms in NLP: Fully Supervised Learning(Non-NN), Fully Supervised Learning(NN), PreTrain-FineTune(After2018) and PreTrain-Prompt-Predict. With the development of Transformer and Language Models, there are more NLP tasks. If researchers still use PreTrain-FineTune to tune Large Language Model in specific tasks, it would cost massive computing resources, which is extremely unrealistic. Hence, PreTrain-Prompt-Predict is a significant and efficient paradigms that makes LLMs to fit different tasks without tuning of re-training.*
 
 
 ***7. Talking with Machines: A Comprehensive Survey of Emergent Dialogue Systems（University of California, Berkeley）*** : 
@@ -77,12 +77,16 @@
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|-------------|
 > | [Github-Page](https://github.com/zjunlp/Prompt4ReasoningPapers) | [Arxiv-Page](https://arxiv.org/pdf/2212.09597.pdf) |            PaperWithCode-Page        |
+>
+>  ***Summarize** : Survey and Evaluation of QA-System*
 
 ***9. A Survey on Evaluation of Large Language Models（Jilin University & Microsoft, 2023.08）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
 > | [Github-Page](https://github.com/mlgroupjlu/llm-eval-survey) | [Arxiv-Page](https://arxiv.org/pdf/2307.03109v7.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-on-evaluation-of-large-language) | ✔ |
+>
+>  ***Summarize** : With the development of Large Language models, How to evaluate the performance of LLMs is extremely important to researchers. This thesis conclude the current method of the LLMs evaluation, and disscuss the problems and future trend.*
 
 ***10. Evaluating Open-QA Evaluation（Westlake University & Northeastern University, 2023.08）*** : 
 
@@ -98,7 +102,7 @@
 > |-------------|------------|--------------------|------------|
 > | [Github-Page](https://github.com/dqxiu/icl_paperlist) | [Arxiv-Page](https://arxiv.org/pdf/2301.00234v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-for-in-context-learning) | ✔ |
 >
->  ***Summarize** : Survey and Evaluation of ICL*
+>  ***Summarize** : Survey and Evaluation of ICL. In-Context Learning is firstly proposed in the work of GPT-3. However, it was used as tricks before the conclusion in the paper, and play an indispensable role in the training process of LLMs. ICL uses the demonstration of the tasks or show some samples of these tasks. Then, a designed mode is used to combine these samples to a natural language prompt and add to the input of LLMs. The efficiency and effectiveness of ICL is influenced by the design of samples. In the pre-training phase, the LLM essentially encodes the implicit model through its parameters. In the forward computation phase, LLM can implement learning algorithms such as gradient descent through the examples provided in ICL, or directly compute closed solutions to update these models. In addition Chain-of-Thought(CoT) is proposed to optimize the performance of LLMs in complex inference tasks, which can be combined with ICL in the situation of Few-Shot or Zero-Shot.*
 
 
 ***12. The Rise and Potential of Large Language Model Based Agents: A Survey（Fudan University, 2023.09）*** : 
@@ -107,7 +111,7 @@
 > |-------------|------------|--------------------|------------|
 > | [Github-Page](https://github.com/woooodyy/llm-agent-paper-list) | [Arxiv-Page](https://arxiv.org/pdf/2309.07864v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/the-rise-and-potential-of-large-language) | ✔ |
 >
->  ***Summarize** : Survey of LLM-based Agents. The idea and demonstration of the LLM-based Multi-Agent System is extremely inspired.*
+>  ***Summarize** : Survey of LLM-based Agents. The idea and demonstration of the LLM-based Multi-Agent System is extremely inspired. A traditional and excellent work of Multi-Agents is showed in[ 16. Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf](https://paperswithcode.com/paper/deep-model-fusion-a-survey).*
 
 ***13. Data-centric Artificial Intelligence: A Survey （Rice University & Texas A&M University, 2023.07）*** : 
 
@@ -124,7 +128,7 @@
 > |-------------|------------|--------------------|------------|
 > | [Github-Page](https://github.com/garyyufei/alignllmhumansurvey) | [Arxiv-Page](https://arxiv.org/pdf/2307.12966v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/aligning-large-language-models-with-human-a) | ✔ |
 >
->  ***Summarize** :*
+>  ***Summarize** : Alignment aims to align the LLM's behavior with human values or preferences. Though LLMs show unparalleled performance in generation, they sometimes generate some words that may mislead users, or is spurious.*
 
 
 ***15. Deep Model Fusion: A Survey（National University of Defense Technology & JD Explore Academy & Beijing Institute of Technology, 2023.09）*** : 
