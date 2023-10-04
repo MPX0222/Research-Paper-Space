@@ -157,7 +157,7 @@
 > |-------------|------------|--------------------|------------|
 > | Github-Page | [Arxiv-Page](https://arxiv.org/pdf/2309.01029v2.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/explainability-for-large-language-models-a) |  |
 >
->  ***Summarize** :An paper about Explainability for Large Language Models.*
+>  ***Summarize** :An paper about Explainability for Large Language Models. This thesis demonstrated the explainability in lots of directions, such as gradient explainability, attanion explainability.*
 
 ---
 
