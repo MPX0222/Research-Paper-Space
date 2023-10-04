@@ -94,7 +94,7 @@
 > |-------------|------------|--------------------|------------|
 > | [Github-Page](https://github.com/wangcunxiang/qa-eval) | [Arxiv-Page](https://arxiv.org/pdf/2305.12421v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/evaluating-open-question-answering-evaluation) | ✔ |
 >
->  ***Summarize** : Survey and Evaluation of QA-System*
+>  ***Summarize** : A Research and Evaluation of QA-Task. This thesis proposed a QA-Evaluation Task and related Dataset EVOUNA.*
 
 ***11. A Survey on In-context Learning （Peking University & Shanghai AI Lab, 2023.06）*** : 
 
