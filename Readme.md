@@ -159,6 +159,15 @@
 >
 >  ***Summarize** :An paper about Explainability for Large Language Models. This thesis demonstrated the explainability in lots of directions, such as gradient explainability, attanion explainability.*
 
+
+***18. An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning（Westlake University &  WeChat, 2023.08）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Is Read? |
+> |-------------|------------|--------------------|------------|
+> | [Github-Page](https://github.com/luoxiaoheics/continual-tune) | [Arxiv-Page](https://browse.arxiv.org/pdf/2308.08747.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/an-empirical-study-of-catastrophic-forgetting) | ✔ |
+>
+>  ***Summarize** : Unsupervised Learning is main training mode of Large Language Models for big training dataset. However, when fine-tuning LLMs for downstream tasks, Catastrophic Forgetting will happen.*
+
 ---
 
 ### 💊 Excellent Works of Framework, Application and Optimization for LLMs（Reference）
