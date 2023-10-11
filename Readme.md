@@ -293,7 +293,7 @@
 > ***· Summarize** :
 
 
-***8. Generative Agents: Interactive Simulacra of Human Behavior（Hong Kong University of Science and Technology, 2023.04）*** : 
+***8. Generative Agents: Interactive Simulacra of Human Behavior（Stanford University, 2023.04）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
