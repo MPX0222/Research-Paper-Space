@@ -220,7 +220,7 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
-> | [Github-Page(ChatGLM)](https://github.com/THUDM/ChatGLM-6B) <br> [Github-Page(GLM-130B)](https://github.com/thudm/glm-130b) | [Arxiv-Page(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv-Page(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | GLM-130B ✔ <br> GLM ✔ |
+> | [Github(ChatGLM)](https://github.com/THUDM/ChatGLM-6B) <br> [Github(GLM-130B)](https://github.com/thudm/glm-130b) | [Arxiv-Page(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv-Page(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | GLM-130B ✔ <br> GLM ✔ |
 >
 > ***· Tags** :*
 >
@@ -230,7 +230,7 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
-> | [Github-Page(ChatGLM)](https://github.com/THUDM/ChatGLM2-6B) <br> [Github-Page(GLM-130B)](https://github.com/thudm/glm-130b)  | [Arxiv-Page(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv-Page(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | GLM-130B ✔ <br> GLM ✔ |
+> | [Github(ChatGLM)](https://github.com/THUDM/ChatGLM2-6B) <br> [Github(GLM-130B)](https://github.com/thudm/glm-130b)  | [Arxiv-Page(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv-Page(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | GLM-130B ✔ <br> GLM ✔ |
 >
 > ***· Tags** :*
 >
