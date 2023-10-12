@@ -297,11 +297,11 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
-> | [Github-Page](https://github.com/joonspk-research/generative_agents) | [Arxiv-Page](https://arxiv.org/pdf/2304.03442v2.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/generative-agents-interactive-simulacra-of)  | OfficialWeb-Page |  |
+> | [Github-Page](https://github.com/joonspk-research/generative_agents) | [Arxiv-Page](https://arxiv.org/pdf/2304.03442v2.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/generative-agents-interactive-simulacra-of)  | OfficialWeb-Page | ✔ |
 >
-> ***· Tags** : **`Multi-Agents`** , **`AI-Town`***
+> ***· Tags** : **`Multi-Agents`** , **`AI-Town`** , **`Techniques`***
 >
-> ***· Summarize** :
+> ***· Summarize** : Multi-Agents is an attractive research direction now. This project construct a Agents Society that includes 25 LLM-based Agents. Researchers provides the design methods of this AI-Agents Towns and technique details, evaluation methods. This thesis is extremely important for LLM-based Multi-Agents Projects.*
 
 ---
 
