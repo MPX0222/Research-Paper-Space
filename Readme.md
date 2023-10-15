@@ -180,18 +180,7 @@
 > ***· Summarize** : Excellient thesis that conclude most deep model fusion methods. The existing methods are summarized into four categories: Mode Connectivity, Alignment, Weight Average, Ensemble Learning, whick contains well-known applications in the past 10 years. Each category is demonstrated by academic terms and formulas. It is the first thesis that the work of deep model fusion in these years are complete summarized. In addition, it is worth noting that the chapter of Alignment is similar to the thesis [14. Aligning Large Language Models with Human: A Survey （Huawei Noah's Ark Lab, 2023.07）](https://arxiv.org/pdf/2307.12966v1.pdf). The former focused on the whole development and most practical techniques of Alignment and the later layed emphasis on the Alignment in Large Language model.*
 
 
-***16. Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf（Tsinghua University, 2023.09）*** : 
-
-> | Github Link | Paper Link | PaperWithCode Link | Is Read? |
-> |-------------|------------|--------------------|------------|
-> | Github-Page | [Arxiv-Page](https://arxiv.org/pdf/2309.04658v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/exploring-large-language-models-for) |  |
->
-> ***· Tags** :*
->
-> ***· Summarize** : An paper about Multi-Agents.*
-
-
-***17. Explainability for Large Language Models: A Survey （New Jersey Institute of Technology etc, 2023.09）*** : 
+***16. Explainability for Large Language Models: A Survey （New Jersey Institute of Technology etc, 2023.09）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
@@ -202,7 +191,7 @@
 > ***· Summarize** : An paper about Explainability for Large Language Models. This thesis demonstrated the explainability in lots of directions, such as gradient explainability, attanion explainability.*
 
 
-***18. An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning（Westlake University &  WeChat, 2023.08）*** : 
+***17. An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning（Westlake University &  WeChat, 2023.08）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
@@ -214,30 +203,74 @@
 
 ---
 
-### 💊 Excellent Works of Framework, Application and Optimization for LLMs（Reference）
+### 💊 Excellent Large Language Models
 
-***1. ChatGLM - 6B/130B [Based on GLM & GLM-130B]（TsingHua University, 2022.10）***: 
+***1. ChatGLM - 6B/130B & ChatGLM 2 - 6B/12B/32B/66B/130B [Based on GLM & GLM-130B]（TsingHua University, 2022.10）***: 
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
 > | [Github(ChatGLM)](https://github.com/THUDM/ChatGLM-6B) <br> [Github(GLM-130B)](https://github.com/thudm/glm-130b) | [Arxiv(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | GLM-130B ✔ <br> GLM ✔ |
 >
-> ***· Tags** :*
+> ***· Tags** : **`Pretrained Base Model`** , **`Efficiency`** , **`Low Dependence of Hardwares`***
 >
 > ***· Summarize** : GLM and GLM-130B faced a lot of challenge when it was firstly proposed, including Lack of CPUs and GPUs, Lack of a Robust Pre-Training Methods, Lack of fast inference solution especially in low computing resources. TsingHua Researchers proposed the training details GLM-130B aiming to provide others a reference about how to train a Large Language Model(100B-Scale), because "It is not easy to train a Large Language Model". GLM-130B use GLM as the backbone, with the methods of Layer Norm, Positional Encoding, FFNs. In the Training Stability Stage, Mixed-Precision(FP16 & FP32) and Embedding Layer Gradient Shrink is used. In addition, GLM-130B was distrubuted in 96 NVIDIA A100-40GB for training(60 Days). In this process, Research teams usually faced the challenges of the lack of GPUs(Even they gained some support from several platforms, they have to edit their codes to fit these platforms or even re-code in C++). Therefore, in the inference stage of GLM-130B, researchers use INT8 and even INT4 to quantize the model weights and the activations, which makes the model can run the inference on RTX 2080Ti.*
 
-***2. ChatGLM 2  [Based on GLM & GLM-130B] - 6B/12B/32B/66B/130B（TsingHua University, 2022.10）***: 
+
+***2. LLaMA: Open and Efficient Foundation Language Models  - 7B/13B/33B/65B（FaceBook/Meta AI, 2023.02）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
-> | [Github(ChatGLM)](https://github.com/THUDM/ChatGLM2-6B) <br> [Github(GLM-130B)](https://github.com/thudm/glm-130b)  | [Arxiv(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | GLM-130B ✔ <br> GLM ✔ |
+> | [Github-Page](https://github.com/facebookresearch/llama) | [Arxiv-Page ](https://arxiv.org/pdf/2302.13971v1.pdf)| [PaperWithCode-Page](https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1)  | OfficialWeb-Page | ✔ |
+>
+> ***· Tags** : **`Pretrained Base Model`** , **`LLMs SOTA`***
+>
+> ***· Summarize** : None*
+
+
+***3. Baichuan 2 - 7B/13B（Baichuan Intelligent Technology）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | [Github-Page](https://github.com/baichuan-inc/Baichuan2) | Arxiv-Page | [PaperWithCode-Page](https://paperswithcode.com/paper/baichuan-2-open-large-scale-language-models)  |[OfficialWeb-Page](https://www.baichuan-ai.com/home) | |
 >
 > ***· Tags** :*
 >
-> ***· Summarize** : Check the background and introduction of GLM and GLM-130B in the summarize of ChatGLM*
+> ***· Summarize** : None*
+
+---
+
+### 💡 Distinguish Process Methods
+
+***1. LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models （Chinese University of Hong Kong & MIT, 2023.09）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | [Github-Page](https://github.com/dvlab-research/longlora) | [Arxiv-Page](https://arxiv.org/pdf/2309.12307v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long)  | OfficialWeb-Page | ✔ |
+>
+> ***· Tags** : **`Backbone`** , **`Long-Context`** , , **`LLMs SOTA`***
+>
+> ***· Summarize** : We present LongLoRA, an efficient fine-tuning approach that extends the context sizes of pre-trained large language models (LLMs), with limited computation cost. Typically, training LLMs with long context sizes is computationally expensive, requiring extensive training hours and GPU resources. For example, training on the context length of 8192 needs 16x computational costs in self-attention layers as that of 2048. In this paper, we speed up the context extension of LLMs in two aspects. On the one hand, although dense global attention is needed during inference, fine-tuning the model can be effectively and efficiently done by sparse local attention. The proposed shift short attention effectively enables context extension, leading to non-trivial computation saving with similar performance to fine-tuning with vanilla attention. Particularly, it can be implemented with only two lines of code in training, while being optional in inference. On the other hand, we revisit the parameter-efficient fine-tuning regime for context expansion. Notably, we find that LoRA for context extension works well under the premise of trainable embedding and normalization. LongLoRA demonstrates strong empirical results on various tasks on LLaMA2 models from 7B/13B to 70B. LongLoRA adopts LLaMA2 7B from 4k context to 100k, or LLaMA2 70B to 32k on a single 8x A100 machine. LongLoRA extends models' context while retaining their original architectures, and is compatible with most existing techniques, like FlashAttention-2. In addition, to make LongLoRA practical, we collect a dataset, LongQA, for supervised fine-tuning. It contains more than 3k long context question-answer pairs.*
+
+---
+
+### ⏳ Development and Extension of Large Language Models
+
+***1. XInsight: eXplainable Data Analysis Through The Lens of Causality（Hong Kong University of Science and Technology, 2023.07）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | [Github-Page]() | [Arxiv-Page](https://arxiv.org/pdf/2207.12718v4.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/xinsight-explainable-data-analysis-through)  | OfficialWeb-Page | |
+>
+> ***· Tags** : **`Causality`***
+>
+> ***· Summarize** :*
 
 
-***3. Agents: An Open-source Framework for Autonomous Language Agents（AIWaves Inc. & Zhejiang University, 2023.09）*** : 
+---
+
+### 🗃 Works of Large Language Model Based Agents
+
+***1. Agents: An Open-source Framework for Autonomous Language Agents（AIWaves Inc. & Zhejiang University, 2023.09）*** : 
 
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
@@ -249,51 +282,7 @@
 > ***· Summarize** : None*
 
 
-***4. LLaMA: Open and Efficient Foundation Language Models  - 7B/13B/33B/65B（FaceBook/Meta AI, 2023.02）*** : 
-
-> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
-> |-------------|------------|--------------------|--------------------|------------|
-> | [Github-Page](https://github.com/facebookresearch/llama) | [Arxiv-Page ](https://arxiv.org/pdf/2302.13971v1.pdf)| [PaperWithCode-Page](https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1)  | OfficialWeb-Page | ✔ |
->
-> ***· Tags** : **`Backbone`** , **`LLMs SOTA`***
->
-> ***· Summarize** : None*
-
-
-***5. Baichuan 2 - 7B/13B（Baichuan Intelligent Technology）*** : 
-
-> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
-> |-------------|------------|--------------------|--------------------|------------|
-> | [Github-Page](https://github.com/baichuan-inc/Baichuan2) | Arxiv-Page | [PaperWithCode-Page](https://paperswithcode.com/paper/baichuan-2-open-large-scale-language-models)  |[OfficialWeb-Page](https://www.baichuan-ai.com/home) | |
->
-> ***· Tags** :*
->
-> ***· Summarize** : None*
-
-
-***6. LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models （Chinese University of Hong Kong & MIT, 2023.09）*** : 
-
-> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
-> |-------------|------------|--------------------|--------------------|------------|
-> | [Github-Page](https://github.com/dvlab-research/longlora) | [Arxiv-Page](https://arxiv.org/pdf/2309.12307v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long)  | OfficialWeb-Page | ✔ |
->
-> ***· Tags** : **`Backbone`** , **`Long-Context`** , , **`LLMs SOTA`***
->
-> ***· Summarize** : We present LongLoRA, an efficient fine-tuning approach that extends the context sizes of pre-trained large language models (LLMs), with limited computation cost. Typically, training LLMs with long context sizes is computationally expensive, requiring extensive training hours and GPU resources. For example, training on the context length of 8192 needs 16x computational costs in self-attention layers as that of 2048. In this paper, we speed up the context extension of LLMs in two aspects. On the one hand, although dense global attention is needed during inference, fine-tuning the model can be effectively and efficiently done by sparse local attention. The proposed shift short attention effectively enables context extension, leading to non-trivial computation saving with similar performance to fine-tuning with vanilla attention. Particularly, it can be implemented with only two lines of code in training, while being optional in inference. On the other hand, we revisit the parameter-efficient fine-tuning regime for context expansion. Notably, we find that LoRA for context extension works well under the premise of trainable embedding and normalization. LongLoRA demonstrates strong empirical results on various tasks on LLaMA2 models from 7B/13B to 70B. LongLoRA adopts LLaMA2 7B from 4k context to 100k, or LLaMA2 70B to 32k on a single 8x A100 machine. LongLoRA extends models' context while retaining their original architectures, and is compatible with most existing techniques, like FlashAttention-2. In addition, to make LongLoRA practical, we collect a dataset, LongQA, for supervised fine-tuning. It contains more than 3k long context question-answer pairs.*
-
-
-***7. XInsight: eXplainable Data Analysis Through The Lens of Causality（Hong Kong University of Science and Technology, 2023.07）*** : 
-
-> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
-> |-------------|------------|--------------------|--------------------|------------|
-> | [Github-Page]() | [Arxiv-Page](https://arxiv.org/pdf/2207.12718v4.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/xinsight-explainable-data-analysis-through)  | OfficialWeb-Page | |
->
-> ***· Tags** : **`Causality`***
->
-> ***· Summarize** :*
-
-
-***8. Generative Agents: Interactive Simulacra of Human Behavior（Stanford University, 2023.04）*** : 
+***2. Generative Agents: Interactive Simulacra of Human Behavior（Stanford University, 2023.04）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
@@ -303,56 +292,17 @@
 >
 > ***· Summarize** : Multi-Agents is an attractive research direction now. This project construct a Agents Society that includes 25 LLM-based Agents. Researchers provides the design methods of this AI-Agents Towns and technique details, evaluation methods. This thesis is extremely important for LLM-based Multi-Agents Projects.*
 
----
 
-### ⛱ Open Datasets for LLMs in Dialogue System Training and Fine-tuning
+***3. Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf（Tsinghua University, 2023.09）*** : 
 
-***1. Schema Guided Dialogue/SGD（Google, 2020）*** : 
-
-> | Github Link | Paper Link | PaperWithCode Link | Task |
+> | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|------------|
-> | [Github-Page](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) | [Arxiv-Page](https://ojs.aaai.org/index.php/AAAI/article/view/6394) | [PaperWithCode-Page](https://paperswithcode.com/paper/towards-scalable-multi-domain-conversational) |  |
+> | Github-Page | [Arxiv-Page](https://arxiv.org/pdf/2309.04658v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/exploring-large-language-models-for) |  |
 >
->  ***Summarize** :*
-
-
-***2. MultiWoZ*** :
-
-> | Github Link | Paper Link | PaperWithCode Link | Task |
-> |-------------|------------|--------------------|------------|
-> | [Github-Page](https://github.com/budzianowski/multiwoz) | [Arxiv-Page](https://aclanthology.org/D18-1547/) | [PaperWithCode-Page](https://paperswithcode.com/paper/multiwoz-a-large-scale-multi-domain-wizard-of-1) |  |
+> ***· Tags** :*
 >
->  ***Summarize** :*
+> ***· Summarize** : An paper about Multi-Agents.*
 
-***3. GlobalWoZ*** :
 
-> | Github Link | Paper Link | PaperWithCode Link | Task |
-> |-------------|------------|--------------------|------------|
-> | [Github-Page](https://github.com/bosheng2020/globalwoz) | [Arxiv-Page](https://arxiv.org/pdf/2110.07679.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/globalwoz-globalizing-multiwoz-to-develop) |  |
->
->  ***Summarize** :*
 
-***4. SciNLI*** :
-
-> | Github Link | Paper Link | PaperWithCode Link | Task |
-> |-------------|------------|--------------------|------------|
-> | [Github-Page](https://github.com/msadat3/scinli) | [Arxiv-Page](https://arxiv.org/pdf/2203.06728v2.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/scinli-a-corpus-for-natural-language) |  |
->
->  ***Summarize** :*
-
-***5. SciBERT*** :
-
-> | Github Link | Paper Link | PaperWithCode Link | Task |
-> |-------------|------------|--------------------|------------|
-> | [Github-Page](https://github.com/allenai/scibert) | [Arxiv-Page](https://arxiv.org/pdf/1903.10676v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/scibert-pretrained-contextualized-embeddings) |  |
->
->  ***Summarize** :*
-
-***6. The Pile*** : 
-
-> | Github Link | Paper Link | PaperWithCode Link | Task |
-> |-------------|------------|--------------------|------------|
-> | [Github-Page](https://github.com/EleutherAI/The-Pile) | [Arxiv-Page](https://arxiv.org/pdf/2101.00027v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/the-pile-an-800gb-dataset-of-diverse-text-for) |  |
->
->  ***Summarize** :*
 
