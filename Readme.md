@@ -9,6 +9,12 @@
 
 * `Readme.md` : Papers and Codes in Google Scholar, Baidu Scholar, Arxiv and Github.
 * `Analysis_in_CN_Internet.md` : Analysis, Reviews and Comments in Chinese Internet, including CSDN, ZhiHu, etc.
+* This excel records the paper in this file:
+
+| Surveys | LLMs Base Model | Fine-Tuning | Casuality | Agents |
+|---------|-----------------|-------------|-----------|--------|
+| **18**  | **3**           |    **2**    |   **2**   | **3**  |
+
 
 ![Galaxy is our dream](images/Galaxy.png)
 
@@ -201,6 +207,17 @@
 >
 > ***· Summarize** : Unsupervised Learning is main training mode of Large Language Models for big training dataset. However, when fine-tuning LLMs for downstream tasks, Catastrophic Forgetting will happen.*
 
+
+***18. A Survey on Causal Inference（Alibaba Group, 2021.08）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Is Read? |
+> |-------------|------------|--------------------|------------|
+> | [Github-Page](https://github.com/dmachlanski/iads-summer-school-causality-2021) | [Arxiv-Page](https://arxiv.org/pdf/2002.02770v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-on-causal-inference) | ✔ |
+>
+> ***· Tags** : **`Causal Inference`***
+>
+> ***· Summarize** : Causal inference is a critical research topic across many domains, such as statistics, computer science, education, public policy and economics, for decades. Nowadays, estimating causal effect from observational data has become an appealing research direction owing to the large amount of available data and low budget requirement, compared with randomized controlled trials. Embraced with the rapidly developed machine learning area, various causal effect estimation methods for observational data have sprung up. In this survey, we provide a comprehensive review of causal inference methods under the potential outcome framework, one of the well known causal inference framework. The methods are divided into two categories depending on whether they require all three assumptions of the potential outcome framework or not. For each category, both the traditional statistical methods and the recent machine learning enhanced methods are discussed and compared. The plausible applications of these methods are also presented, including the applications in advertising, recommendation, medicine and so on. Moreover, the commonly used benchmark datasets as well as the open-source codes are also summarized, which facilitate researchers and practitioners to explore, evaluate and apply the causal inference methods.*
+
 ---
 
 ### 💊 Excellent Large Language Models
@@ -263,18 +280,28 @@
 
 ---
 
-### ⏳ Development and Extension of Large Language Models
+### ⏳ Development and Extension of Large Language Models with Causality Learning
 
 ***1. XInsight: eXplainable Data Analysis Through The Lens of Causality（Hong Kong University of Science and Technology, 2023.07）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
-> | [Github-Page]() | [Arxiv-Page](https://arxiv.org/pdf/2207.12718v4.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/xinsight-explainable-data-analysis-through)  | OfficialWeb-Page | |
+> | [Github-Page]() | [Arxiv-Page](https://arxiv.org/pdf/2207.12718v4.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/xinsight-explainable-data-analysis-through)  | OfficialWeb-Page | ✔ |
 >
-> ***· Tags** : **`Causality`***
+> ***· Tags** : **`Causality`** , **`Theory`***
 >
-> ***· Summarize** :*
+> ***· Summarize** : In light of the growing popularity of Exploratory Data Analysis (EDA), understanding the underlying causes of the knowledge acquired by EDA is crucial. However, it remains under-researched. This study promotes a transparent and explicable perspective on data analysis, called eXplainable Data Analysis (XDA). For this reason, we present XInsight, a general framework for XDA. XInsight provides data analysis with qualitative and quantitative explanations of causal and non-causal semantics. This way, it will significantly improve human understanding and confidence in the outcomes of data analysis, facilitating accurate data interpretation and decision making in the real world. XInsight is a three-module, end-to-end pipeline designed to extract causal graphs, translate causal primitives into XDA semantics, and quantify the quantitative contribution of each explanation to a data fact. XInsight uses a set of design concepts and optimizations to address the inherent difficulties associated with integrating causality into XDA. Experiments on synthetic and real-world datasets as well as a user study demonstrate the highly promising capabilities of XInsight.*
 
+
+***2. Evaluation Methods and Measures for Causal Learning Algorithms （Arizona State University, 2022.07）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | [Github-Page]() | [Arxiv-Page](https://arxiv.org/pdf/2202.02896v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/evaluation-methods-and-measures-for-causal)  | OfficialWeb-Page | ✔ |
+>
+> ***· Tags** : **`Causality Learning`***
+>
+> ***· Summarize** : In this survey, we review commonly-used datasets, evaluation methods, and measures for causal learning using an evaluation pipeline similar to conventional machine learning. We focus on the two fundamental causal-inference tasks and causality-aware machine learning tasks. Limitations of current evaluation procedures are also discussed. We then examine popular causal inference tools/packages and conclude with primary challenges and opportunities for benchmarking causal learning algorithms in the era of big data. The survey seeks to bring to the forefront the urgency of developing publicly available benchmarks and consensus-building standards for causal learning evaluation with observational data. In doing so, we hope to broaden the discussions and facilitate collaboration to advance the innovation and application of causal learning.*
 
 ---
 
