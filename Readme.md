@@ -39,11 +39,11 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Is Read? |
 > |-------------|------------|--------------------|-------------|
-> | [Github-Page](https://github.com/Paitesanshi/LLM-Agent-Survey) | [Arxiv-Page](https://arxiv.org/pdf/2308.11432.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-on-large-language-model-based)  |
+> | [Github-Page](https://github.com/Paitesanshi/LLM-Agent-Survey) | [Arxiv-Page](https://arxiv.org/pdf/2308.11432.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/a-survey-on-large-language-model-based)  | ✔ |
 >
-> ***· Tags** :*
+> ***· Tags** : **`Construction and Techniques`** , **`Application`** , **`Evaluation`***
 >
-> ***· Summarize** :*
+> ***· Summarize** : This thesis first discuss the construction of LLM-based autonomous agents, for which they propose a unified framework that encompasses a majority of the previous work. Then, they present a comprehensive overview of the diverse applications of LLM-based autonomous agents in the fields of social science, natural science, and engineering. Finally, the authors delve into the evaluation strategies commonly used forLLM-based autonomous agents. Based on the previous studies, they also present several challenges and future directions in this field*
 
 ***3. A Survey on Multimodal Large Language Models（University of Science and Technology of China & Tencent YouTu Lab）*** : 
 
