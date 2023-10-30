@@ -11,9 +11,9 @@
 * `Analysis_in_CN_Internet.md` : Analysis, Reviews and Comments in Chinese Internet, including CSDN, ZhiHu, etc.
 * This excel records the paper in this file:
 
-| Surveys | LLMs Base Model | Fine-Tuning | Casuality | Agents |
-|---------|-----------------|-------------|-----------|--------|
-| **18**  | **3**           |    **2**    |   **2**   | **3**  |
+| Books | Surveys | Base Model | Fine-Tune | Casuality | Agents | Datasets |
+|-------|---------|------------|-----------|-----------|--------|----------|
+| **1** | **18**  | **3**      |   **2**   |   **2**   | **3**  |  **1**   |
 
 
 ![Galaxy is our dream](images/Galaxy.png)
@@ -220,13 +220,13 @@
 
 ---
 
-### 💊 Excellent Large Language Models
+### 💊 Large Language Base Models
 
 ***1. ChatGLM - 6B/130B & ChatGLM 2 - 6B/12B/32B/66B/130B [Based on GLM & GLM-130B]（TsingHua University, 2022.10）***: 
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
-> | [Github(ChatGLM)](https://github.com/THUDM/ChatGLM-6B) <br> [Github(GLM-130B)](https://github.com/thudm/glm-130b) | [Arxiv(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | GLM-130B ✔ <br> GLM ✔ |
+> | [Github(GLM-130B)](https://github.com/thudm/glm-130b) <br> [Github(ChatGLM)](https://github.com/THUDM/ChatGLM-6B) | [Arxiv(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | GLM-130B ✔ <br> GLM ✔ |
 >
 > ***· Tags** : **`Pretrained Base Model`** , **`Efficiency`** , **`Low Dependence of Hardwares`***
 >
@@ -339,6 +339,20 @@
 > ***· Tags** :*
 >
 > ***· Summarize** : An paper about Multi-Agents.*
+
+
+### 📂 Datasets and Data Engineering
+
+***1. Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models （The Hong Kong University of Science and Technology & AIWaves, 2023.10）*** : 
+
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | [Github-Page](https://github.com/rickyskywalker/synthesis_step-by-step_official) | [Arxiv-Page](https://arxiv.org/pdf/2310.13671v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/let-s-synthesize-step-by-step-iterative) | OfficialWeb-Page | ✔ |
+>
+> ***· Tags** : **`Data Generation`***
+>
+> ***· Summarize** : *Data Synthesis* is a promising way to train a small model with very little labeled data. One approach for data synthesis is to leverage the rich knowledge from large language models to synthesize pseudo training examples for small models, making it possible to achieve both data and compute efficiency at the same time. However, a key challenge in data synthesis is that the synthesized dataset often suffers from a large distributional discrepancy from the *real task* data distribution. Thus, in this paper, we propose *Synthesis Step by Step* (**S3**), a data synthesis framework that shrinks this distribution gap by iteratively extrapolating the errors made by a small model trained on the synthesized dataset on a small real-world validation dataset using a large language model. Extensive experiments on multiple NLP tasks show that our approach improves the performance of a small model by reducing the gap between the synthetic dataset and the real data, resulting in significant improvement compared to several baselines: 9.48% improvement compared to ZeroGen and 2.73% compared to GoldGen, and at most 15.17% improvement compared to the small model trained on human-annotated data.*
 
 
 
