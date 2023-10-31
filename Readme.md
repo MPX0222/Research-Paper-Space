@@ -11,9 +11,9 @@
 * `Analysis_in_CN_Internet.md` : Analysis, Reviews and Comments in Chinese Internet, including CSDN, ZhiHu, etc.
 * This excel records the paper in this file:
 
-| Books | Surveys | Base Model | Fine-Tune | Casuality | Agents | Datasets | Total |
-|-------|---------|------------|-----------|-----------|--------|----------|-------|
-| **1** | **18**  | **3**      |   **2**   |   **4**   | **3**  |  **1**   | **32**|
+| Books | Surveys | Base Model | Fine-Tune | Casuality | Agents | Datasets |
+|-------|---------|------------|-----------|-----------|--------|----------|
+| **1** | **18**  | **3**      |   **2**   |   **4**   | **3**  |  **1**   |
 
 
 ![Galaxy is our dream](images/Galaxy.png)
@@ -307,7 +307,7 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
-> | [Github-Page](https://github.com/knowlab/bi-weekly-paper-presentation) | [Arxiv-Page](https://arxiv.org/pdf/2109.00725v2.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/causal-inference-in-natural-language)  | OfficialWeb-Page |  |
+> | [Github-Page](https://github.com/knowlab/bi-weekly-paper-presentation) | [Arxiv-Page](https://arxiv.org/pdf/2109.00725v2.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/causal-inference-in-natural-language)  | OfficialWeb-Page | ✔ |
 >
 > ***· Tags** : **`Causal Inference`***
 >
@@ -317,7 +317,7 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
-> | [Github-Page](https://github.com/microsoft/causica) | [Arxiv-Page](https://arxiv.org/pdf/2202.02195v2.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/deep-end-to-end-causal-inference)  | OfficialWeb-Page |  |
+> | [Github-Page](https://github.com/microsoft/causica) | [Arxiv-Page](https://arxiv.org/pdf/2202.02195v2.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/deep-end-to-end-causal-inference)  | OfficialWeb-Page | ✔ |
 >
 > ***· Tags** : **`Causal Inference`***
 >
