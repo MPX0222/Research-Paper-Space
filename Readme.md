@@ -11,9 +11,9 @@
 * `Analysis_in_CN_Internet.md` : Analysis, Reviews and Comments in Chinese Internet, including CSDN, ZhiHu, etc.
 * This excel records the paper in this file:
 
-| Books | Surveys | Base Model | Fine-Tune | Casuality | Agents | Datasets |
-|-------|---------|------------|-----------|-----------|--------|----------|
-| **1** | **18**  | **3**      |   **2**   |   **2**   | **3**  |  **1**   |
+| Books | Surveys | Base Model | Fine-Tune | Casuality | Agents | Datasets | Total |
+|-------|---------|------------|-----------|-----------|--------|----------|-------|
+| **1** | **18**  | **3**      |   **2**   |   **4**   | **3**  |  **1**   | **32**|
 
 
 ![Galaxy is our dream](images/Galaxy.png)
@@ -302,6 +302,26 @@
 > ***· Tags** : **`Causality Learning`***
 >
 > ***· Summarize** : In this survey, we review commonly-used datasets, evaluation methods, and measures for causal learning using an evaluation pipeline similar to conventional machine learning. We focus on the two fundamental causal-inference tasks and causality-aware machine learning tasks. Limitations of current evaluation procedures are also discussed. We then examine popular causal inference tools/packages and conclude with primary challenges and opportunities for benchmarking causal learning algorithms in the era of big data. The survey seeks to bring to the forefront the urgency of developing publicly available benchmarks and consensus-building standards for causal learning evaluation with observational data. In doing so, we hope to broaden the discussions and facilitate collaboration to advance the innovation and application of causal learning.*
+
+***3. Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond （Israel Institute of Technology, 2021.09）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | [Github-Page](https://github.com/knowlab/bi-weekly-paper-presentation) | [Arxiv-Page](https://arxiv.org/pdf/2109.00725v2.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/causal-inference-in-natural-language)  | OfficialWeb-Page |  |
+>
+> ***· Tags** : **`Causal Inference`***
+>
+> ***· Summarize** : A fundamental goal of scientific research is to learn about causal relationships. However, despite its critical role in the life and social sciences, causality has not had the same importance in Natural Language Processing (NLP), which has traditionally placed more emphasis on predictive tasks. This distinction is beginning to fade, with an emerging area of interdisciplinary research at the convergence of causal inference and language processing. Still, research on causality in NLP remains scattered across domains without unified definitions, benchmark datasets and clear articulations of the challenges and opportunities in the application of causal inference to the textual domain, with its unique properties. In this survey, we consolidate research across academic areas and situate it in the broader NLP landscape. We introduce the statistical challenge of estimating causal effects with text, encompassing settings where text is used as an outcome, treatment, or to address confounding. In addition, we explore potential uses of causal inference to improve the robustness, fairness, and interpretability of NLP models. We thus provide a unified overview of causal inference for the NLP community.*
+
+***4. Deep End-to-end Causal Inference（University of Massachusetts Amherst etc, 2022.04）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | [Github-Page](https://github.com/microsoft/causica) | [Arxiv-Page](https://arxiv.org/pdf/2202.02195v2.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/deep-end-to-end-causal-inference)  | OfficialWeb-Page |  |
+>
+> ***· Tags** : **`Causal Inference`***
+>
+> ***· Summarize** : Causal inference is essential for data-driven decision making across domains such as business engagement, medical treatment and policy making. However, research on causal discovery has evolved separately from inference methods, preventing straight-forward combination of methods from both fields. In this work, we develop Deep End-to-end Causal Inference (DECI), a single flow-based non-linear additive noise model that takes in observational data and can perform both causal discovery and inference, including conditional average treatment effect (CATE) estimation. We provide a theoretical guarantee that DECI can recover the ground truth causal graph under standard causal discovery assumptions. Motivated by application impact, we extend this model to heterogeneous, mixed-type data with missing values, allowing for both continuous and discrete treatment decisions. Our results show the competitive performance of DECI when compared to relevant baselines for both causal discovery and (C)ATE estimation in over a thousand experiments on both synthetic datasets and causal machine learning benchmarks across data-types and levels of missingness.*
 
 ---
 
