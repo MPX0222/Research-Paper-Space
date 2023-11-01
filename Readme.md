@@ -13,7 +13,7 @@
 
 | Books | Surveys | Base Model | Fine-Tune | Casuality | Agents | Datasets |
 |-------|---------|------------|-----------|-----------|--------|----------|
-| **1** | **18**  | **3**      |   **2**   |   **4**   | **3**  |  **1**   |
+| **1** | **18**  | **3**      |   **2**   |   **5**   | **3**  |  **1**   |
 
 
 ![Galaxy is our dream](images/Galaxy.png)
@@ -322,6 +322,17 @@
 > ***· Tags** : **`Causal Inference`***
 >
 > ***· Summarize** : Causal inference is essential for data-driven decision making across domains such as business engagement, medical treatment and policy making. However, research on causal discovery has evolved separately from inference methods, preventing straight-forward combination of methods from both fields. In this work, we develop Deep End-to-end Causal Inference (DECI), a single flow-based non-linear additive noise model that takes in observational data and can perform both causal discovery and inference, including conditional average treatment effect (CATE) estimation. We provide a theoretical guarantee that DECI can recover the ground truth causal graph under standard causal discovery assumptions. Motivated by application impact, we extend this model to heterogeneous, mixed-type data with missing values, allowing for both continuous and discrete treatment decisions. Our results show the competitive performance of DECI when compared to relevant baselines for both causal discovery and (C)ATE estimation in over a thousand experiments on both synthetic datasets and causal machine learning benchmarks across data-types and levels of missingness.*
+
+
+***5. Benchmarking Framework for Performance-Evaluation of Causal Inference Analysis （IBM Research, 2018.02）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | [Github-Page](https://github.com/IBM-HRL-MLHLS/IBM-Causal-Inference-Benchmarking-Framework) | [Arxiv-Page](https://arxiv.org/pdf/1802.05046.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/benchmarking-framework-for-performance)  | OfficialWeb-Page | ✔ |
+>
+> ***· Tags** : **`Causal Inference`** , **`Benchmark`** , **`Dataset`***
+>
+> ***· Summarize** : Causal inference analysis is the estimation of the effects of actions on outcomes. In the context of healthcare data this means estimating the outcome of counter-factual treatments (i.e. including treatments that were not observed) on a patient's outcome. Compared to classic machine learning methods, evaluation and validation of causal inference analysis is more challenging because ground truth data of counter-factual outcome can never be obtained in any real-world scenario. Here, we present a comprehensive framework for benchmarking algorithms that estimate causal effect. The framework includes unlabeled data for prediction, labeled data for validation, and code for automatic evaluation of algorithm predictions using both established and novel metrics. The data is based on real-world covariates, and the treatment assignments and outcomes are based on simulations, which provides the basis for validation. In this framework we address two questions: one of scaling, and the other of data-censoring. The framework is available as open source code at https://github.com/IBM-HRL-MLHLS/IBM-Causal-Inference-Benchmarking-Framework.*
 
 ---
 
