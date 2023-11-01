@@ -226,7 +226,7 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
-> | [Github(GLM-130B)](https://github.com/thudm/glm-130b) <br> [Github(ChatGLM)](https://github.com/THUDM/ChatGLM-6B) <br> [Github(ChatGLM2)](https://github.com/THUDM/ChatGLM2-6B) <br> [Github(ChatGLM3)](https://github.com/THUDM/ChatGLM3) | [Arxiv(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | GLM-130B ✔ <br> GLM ✔ |
+> | [Github(GLM-130B)](https://github.com/thudm/glm-130b) <br> [Github(ChatGLM)](https://github.com/THUDM/ChatGLM-6B) <br> [Github(ChatGLM2)](https://github.com/THUDM/ChatGLM2-6B) <br> [Github(ChatGLM3)](https://github.com/THUDM/ChatGLM3) | [Arxiv(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model) |[OfficialWeb-Page]( https://chatglm.cn/blog) <br> [HuggingFace-Page](https://huggingface.co/THUDM) | GLM-130B ✔ <br> GLM ✔ |
 >
 > ***· Tags** : **`Pretrained Base Model`** , **`Efficiency`** , **`Low Dependence of Hardwares`***
 >
