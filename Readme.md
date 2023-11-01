@@ -222,11 +222,11 @@
 
 ### 💊 Large Language Base Models
 
-***1. ChatGLM - 6B/130B & ChatGLM 2 - 6B/12B/32B/66B/130B [Based on GLM & GLM-130B]（TsingHua University, 2022.10）***: 
+***1. ChatGLM - 6B/130B & ChatGLM2 - 6B/12B/32B/66B/130B & CHATGLM3 - 6B [Based on GLM & GLM-130B]（TsingHua University, 2022.10）***: 
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
-> | [Github(GLM-130B)](https://github.com/thudm/glm-130b) <br> [Github(ChatGLM)](https://github.com/THUDM/ChatGLM-6B) | [Arxiv(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | GLM-130B ✔ <br> GLM ✔ |
+> | [Github(GLM-130B)](https://github.com/thudm/glm-130b) <br> [Github(ChatGLM)](https://github.com/THUDM/ChatGLM-6B) <br> [Github(ChatGLM2)](https://github.com/THUDM/ChatGLM2-6B) <br> [Github(ChatGLM3)](https://github.com/THUDM/ChatGLM3) | [Arxiv(GLM-130B)](https://arxiv.org/pdf/2210.02414.pdf) <br> [Arxiv(GLM)](https://arxiv.org/pdf/2103.10360.pdf) | PaperWithCode-Page |[OfficialWeb-Page]( https://chatglm.cn/blog) | GLM-130B ✔ <br> GLM ✔ |
 >
 > ***· Tags** : **`Pretrained Base Model`** , **`Efficiency`** , **`Low Dependence of Hardwares`***
 >
