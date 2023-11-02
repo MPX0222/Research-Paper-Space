@@ -13,7 +13,7 @@
 
 | Books | Surveys | Base Model | Fine-Tune | Casuality | Agents | Datasets |
 |-------|---------|------------|-----------|-----------|--------|----------|
-| **1** | **18**  | **3**      |   **2**   |   **5**   | **3**  |  **1**   |
+| **1** | **18**  | **3**      |   **2**   |   **6**   | **3**  |  **1**   |
 
 
 ![Galaxy is our dream](images/Galaxy.png)
@@ -333,6 +333,17 @@
 > ***· Tags** : **`Causal Inference`** , **`Benchmark`** , **`Dataset`***
 >
 > ***· Summarize** : Causal inference analysis is the estimation of the effects of actions on outcomes. In the context of healthcare data this means estimating the outcome of counter-factual treatments (i.e. including treatments that were not observed) on a patient's outcome. Compared to classic machine learning methods, evaluation and validation of causal inference analysis is more challenging because ground truth data of counter-factual outcome can never be obtained in any real-world scenario. Here, we present a comprehensive framework for benchmarking algorithms that estimate causal effect. The framework includes unlabeled data for prediction, labeled data for validation, and code for automatic evaluation of algorithm predictions using both established and novel metrics. The data is based on real-world covariates, and the treatment assignments and outcomes are based on simulations, which provides the basis for validation. In this framework we address two questions: one of scaling, and the other of data-censoring. The framework is available as open source code at https://github.com/IBM-HRL-MLHLS/IBM-Causal-Inference-Benchmarking-Framework.*
+
+
+***6. e-CARE: a New Dataset for Exploring Explainable Causal Reasoning （Harbin Institute of Technology, 2022.05）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | [Github-Page](https://github.com/waste-wood/e-care) | [Arxiv-Page](https://arxiv.org/pdf/2205.05849v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/e-care-a-new-dataset-for-exploring-1)  | OfficialWeb-Page | ✔ |
+>
+> ***· Tags** : **`Causal Inference`** , **`Casual Explaniation`** , **`Natural Language Dataset`***
+>
+> ***· Summarize** : Understanding causality has vital importance for various Natural Language Processing (NLP) applications. Beyond the labeled instances, conceptual explanations of the causality can provide deep understanding of the causal facts to facilitate the causal reasoning process. However, such explanation information still remains absent in existing causal reasoning resources. In this paper, we fill this gap by presenting a human-annotated explainable CAusal REasoning dataset (e-CARE), which contains over 21K causal reasoning questions, together with natural language formed explanations of the causal questions. Experimental results show that generating valid explanations for causal facts still remains especially challenging for the state-of-the-art models, and the explanation information can be helpful for promoting the accuracy and stability of causal reasoning models.*
 
 ---
 
