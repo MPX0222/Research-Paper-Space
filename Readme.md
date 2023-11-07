@@ -222,7 +222,7 @@
 
 ### 💊 Large Language Base Models
 
-***1. ChatGLM - 6B/130B & ChatGLM2 - 6B/12B/32B/66B/130B & CHATGLM3 - 6B [Based on GLM & GLM-130B]（TsingHua University, 2022.10）***: 
+***1. ChatGLM-6B/130B & ChatGLM2-6B/12B/32B/66B/130B & CHATGLM3-6B [Based on GLM & GLM-130B]（TsingHua University, 2022.10）***: 
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
@@ -233,7 +233,7 @@
 > ***· Summarize** : GLM and GLM-130B faced a lot of challenge when it was firstly proposed, including Lack of CPUs and GPUs, Lack of a Robust Pre-Training Methods, Lack of fast inference solution especially in low computing resources. TsingHua Researchers proposed the training details GLM-130B aiming to provide others a reference about how to train a Large Language Model(100B-Scale), because "It is not easy to train a Large Language Model". GLM-130B use GLM as the backbone, with the methods of Layer Norm, Positional Encoding, FFNs. In the Training Stability Stage, Mixed-Precision(FP16 & FP32) and Embedding Layer Gradient Shrink is used. In addition, GLM-130B was distrubuted in 96 NVIDIA A100-40GB for training(60 Days). In this process, Research teams usually faced the challenges of the lack of GPUs(Even they gained some support from several platforms, they have to edit their codes to fit these platforms or even re-code in C++). Therefore, in the inference stage of GLM-130B, researchers use INT8 and even INT4 to quantize the model weights and the activations, which makes the model can run the inference on RTX 2080Ti.*
 
 
-***2. LLaMA: Open and Efficient Foundation Language Models  - 7B/13B/33B/65B（FaceBook/Meta AI, 2023.02）*** : 
+***2. LLaMA-7B/13B/33B/65B & LLaMA2-34B/70B（FaceBook/Meta AI, 2023.02）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
@@ -244,13 +244,24 @@
 > ***· Summarize** : None*
 
 
-***3. Baichuan 2 - 7B/13B（Baichuan Intelligent Technology）*** : 
+***3. Baichuan2-7B/13B（Baichuan Intelligent Technology）*** : 
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
 > | [Github-Page](https://github.com/baichuan-inc/Baichuan2) | Arxiv-Page | [PaperWithCode-Page](https://paperswithcode.com/paper/baichuan-2-open-large-scale-language-models)  |[OfficialWeb-Page](https://www.baichuan-ai.com/home) | |
 >
-> ***· Tags** :*
+> ***· Tags** : **`Pretrained Base Model`***
+>
+> ***· Summarize** : None*
+
+
+***4. Yi-6B/34B（01 AI, 2023.11）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | [Github-Page](https://github.com/01-ai/Yi) | Arxiv-Page | [PaperWithCode-Page]()  |[OfficialWeb-Page](https://www.lingyiwanwu.com/) <br> [HuggingFace-Page](https://huggingface.co/01-ai)  | ✔ |
+>
+> ***· Tags** : **`Pretrained Base Model`***
 >
 > ***· Summarize** : None*
 
