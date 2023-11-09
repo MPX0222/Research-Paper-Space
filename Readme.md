@@ -11,9 +11,9 @@
 * `Analysis_in_CN_Internet.md` : Analysis, Reviews and Comments in Chinese Internet, including CSDN, ZhiHu, etc.
 * This excel records the paper in this file:
 
-| Books | Surveys | Base Model | Fine-Tune | Casuality | Agents | Datasets |
-|-------|---------|------------|-----------|-----------|--------|----------|
-| **1** | **18**  | **3**      |   **2**   |   **6**   | **3**  |  **1**   |
+| Books | Surveys | Base Model | Fine-Tune | Casuality | Agents | Retrieval | Datasets |
+|-------|---------|------------|-----------|-----------|--------|----------|----------|
+| **1** | **18**  | **3**      |   **2**   |   **7**   | **3**  |  **3**   |  **1**   |
 
 
 ![Galaxy is our dream](images/Galaxy.png)
@@ -393,6 +393,21 @@
 >
 > ***· Summarize** : An paper about Multi-Agents.*
 
+---
+
+### 📂 Retrieval LLM Work
+
+***1. REPLUG: Retrieval-Augmented Black-Box Language Models（University of Washington etc, 2023.01）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | Github-Page | [Arxiv-Page](https://arxiv.org/pdf/2301.12652v4.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/replug-retrieval-augmented-black-box-language) | OfficialWeb-Page | ✔ |
+>
+> ***· Tags** : **`Retrieval`***
+>
+> ***· Summarize** : We introduce REPLUG, a retrieval-augmented language modeling framework that treats the language model (LM) as a black box and augments it with a tuneable retrieval model. Unlike prior retrieval-augmented LMs that train language models with special cross attention mechanisms to encode the retrieved text, REPLUG simply prepends retrieved documents to the input for the frozen black-box LM. This simple design can be easily applied to any existing retrieval and language models. Furthermore, we show that the LM can be used to supervise the retrieval model, which can then find documents that help the LM make better predictions. Our experiments demonstrate that REPLUG with the tuned retriever significantly improves the performance of GPT-3 (175B) on language modeling by 6.3%, as well as the performance of Codex on five-shot MMLU by 5.1%.*
+
+---
 
 ### 📂 Datasets and Data Engineering
 
