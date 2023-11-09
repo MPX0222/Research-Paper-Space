@@ -403,9 +403,31 @@
 > |-------------|------------|--------------------|--------------------|------------|
 > | Github-Page | [Arxiv-Page](https://arxiv.org/pdf/2301.12652v4.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/replug-retrieval-augmented-black-box-language) | OfficialWeb-Page | ✔ |
 >
-> ***· Tags** : **`Retrieval`***
+> ***· Tags** : **`Retrieval`** , **`LLM Black Box`***
 >
 > ***· Summarize** : We introduce REPLUG, a retrieval-augmented language modeling framework that treats the language model (LM) as a black box and augments it with a tuneable retrieval model. Unlike prior retrieval-augmented LMs that train language models with special cross attention mechanisms to encode the retrieved text, REPLUG simply prepends retrieved documents to the input for the frozen black-box LM. This simple design can be easily applied to any existing retrieval and language models. Furthermore, we show that the LM can be used to supervise the retrieval model, which can then find documents that help the LM make better predictions. Our experiments demonstrate that REPLUG with the tuned retriever significantly improves the performance of GPT-3 (175B) on language modeling by 6.3%, as well as the performance of Codex on five-shot MMLU by 5.1%.*
+
+
+***2. Atlas: Few-shot Learning with Retrieval Augmented Language Models（Meta AI , 2022.08）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | [Github-Page](https://github.com/facebookresearch/atlas) | [Arxiv-Page](https://arxiv.org/pdf/2208.03299v3.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/few-shot-learning-with-retrieval-augmented) | OfficialWeb-Page | ✔ |
+>
+> ***· Tags** : **`Retrieval`***
+>
+> ***· Summarize** : *
+
+
+***3. REALM: Retrieval-Augmented Language Model Pre-Training （University of Washington etc, 2020.10）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | [Github-Page](https://github.com/google-research/language/tree/master/language/realm) | [Arxiv-Page](https://arxiv.org/pdf/2002.08909v1.pdf) | [PaperWithCode-Page](https://github.com/google-research/language/tree/master/language/realm) | OfficialWeb-Page | ✔ |
+>
+> ***· Tags** : **`Retrieval`***
+>
+> ***· Summarize** : Language model pre-training has been shown to capture a surprising amount of world knowledge, crucial for NLP tasks such as question answering. However, this knowledge is stored implicitly in the parameters of a neural network, requiring ever-larger networks to cover more facts. To capture knowledge in a more modular and interpretable way, we augment language model pre-training with a latent knowledge retriever, which allows the model to retrieve and attend over documents from a large corpus such as Wikipedia, used during pre-training, fine-tuning and inference. For the first time, we show how to pre-train such a knowledge retriever in an unsupervised manner, using masked language modeling as the learning signal and backpropagating through a retrieval step that considers millions of documents. We demonstrate the effectiveness of Retrieval-Augmented Language Model pre-training (REALM) by fine-tuning on the challenging task of Open-domain Question Answering (Open-QA). We compare against state-of-the-art models for both explicit and implicit knowledge storage on three popular Open-QA benchmarks, and find that we outperform all previous methods by a significant margin (4-16% absolute accuracy), while also providing qualitative benefits such as interpretability and modularity.*
 
 ---
 
