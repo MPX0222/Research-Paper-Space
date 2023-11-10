@@ -13,7 +13,7 @@
 
 | Books | Surveys | Base Model | Fine-Tune | Casuality | Agents | Retrieval | Datasets |
 |-------|---------|------------|-----------|-----------|--------|----------|----------|
-| **1** | **18**  | **3**      |   **2**   |   **7**   | **3**  |  **3**   |  **1**   |
+| **1** | **18**  | **3**      |   **3**   |   **7**   | **3**  |  **3**   |  **1**   |
 
 
 ![Galaxy is our dream](images/Galaxy.png)
@@ -287,7 +287,18 @@
 >
 > ***· Tags** : **`Fine-tune`** , **`Long-Context`** , , **`Efficiency`***
 >
-> ***· Summarize** : 
+> ***· Summarize** :*
+
+
+***3. AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts （University of California, 2020.10）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | [Github-Page](https://github.com/ucinlp/autoprompt) | [Arxiv-Page](https://arxiv.org/pdf/2010.15980v2.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/autoprompt-eliciting-knowledge-from-language)  | OfficialWeb-Page | ✔ |
+>
+> ***· Tags** : **`Prompt Method`** , **`Automatic Prompt`** , , **`Opti`***
+>
+> ***· Summarize** : The remarkable success of pretrained language models has motivated the study of what kinds of knowledge these models learn during pretraining. Reformulating tasks as fill-in-the-blanks problems (e.g., cloze tests) is a natural approach for gauging such knowledge, however, its usage is limited by the manual effort and guesswork required to write suitable prompts. To address this, we develop AutoPrompt, an automated method to create prompts for a diverse set of tasks, based on a gradient-guided search. Using AutoPrompt, we show that masked language models (MLMs) have an inherent capability to perform sentiment analysis and natural language inference without additional parameters or finetuning, sometimes achieving performance on par with recent state-of-the-art supervised models. We also show that our prompts elicit more accurate factual knowledge from MLMs than the manually created prompts on the LAMA benchmark, and that MLMs can be used as relation extractors more effectively than supervised relation extraction models. These results demonstrate that automatically generated prompts are a viable parameter-free alternative to existing probing methods, and as pretrained LMs become more sophisticated and capable, potentially a replacement for finetuning.*
 
 ---
 
