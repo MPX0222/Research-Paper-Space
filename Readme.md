@@ -13,7 +13,7 @@
 
 | Books | Surveys | Base Model | Fine-Tune | Casuality | Agents | Retrieval | Datasets |
 |-------|---------|------------|-----------|-----------|--------|----------|----------|
-| **1** | **18**  | **3**      |   **3**   |   **7**   | **3**  |  **3**   |  **1**   |
+| **1** | **18**  | **3**      |   **3**   |   **7**   | **3**  |  **3**   |  **3**   |
 
 
 ![Galaxy is our dream](images/Galaxy.png)
@@ -446,7 +446,6 @@
 
 ***1. Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models （The Hong Kong University of Science and Technology & AIWaves, 2023.10）*** : 
 
-
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
 > | [Github-Page](https://github.com/rickyskywalker/synthesis_step-by-step_official) | [Arxiv-Page](https://arxiv.org/pdf/2310.13671v1.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/let-s-synthesize-step-by-step-iterative) | OfficialWeb-Page | ✔ |
@@ -456,5 +455,14 @@
 > ***· Summarize** : *Data Synthesis* is a promising way to train a small model with very little labeled data. One approach for data synthesis is to leverage the rich knowledge from large language models to synthesize pseudo training examples for small models, making it possible to achieve both data and compute efficiency at the same time. However, a key challenge in data synthesis is that the synthesized dataset often suffers from a large distributional discrepancy from the *real task* data distribution. Thus, in this paper, we propose *Synthesis Step by Step* (**S3**), a data synthesis framework that shrinks this distribution gap by iteratively extrapolating the errors made by a small model trained on the synthesized dataset on a small real-world validation dataset using a large language model. Extensive experiments on multiple NLP tasks show that our approach improves the performance of a small model by reducing the gap between the synthetic dataset and the real data, resulting in significant improvement compared to several baselines: 9.48% improvement compared to ZeroGen and 2.73% compared to GoldGen, and at most 15.17% improvement compared to the small model trained on human-annotated data.*
 
 
+***2. Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs（The University of Hong Kong & DAMO etc, 2023.05）*** : 
+
+> | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
+> |-------------|------------|--------------------|--------------------|------------|
+> | [Github-Page](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird) | [Arxiv-Page](https://arxiv.org/pdf/2305.03111.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/can-llm-already-serve-as-a-database-interface) | OfficialWeb-Page | ✔ |
+>
+> ***· Tags** : **`Benchmark`** , **`Text-to-SQL`***
+>
+> ***· Summarize** : Text-to-SQL parsing, which aims at converting natural language instructions into executable SQLs, has gained increasing attention in recent years. In particular, Codex and ChatGPT have shown impressive results in this task. However, most of the prevalent benchmarks, i.e., Spider, and WikiSQL, focus on database schema with few rows of database contents leaving the gap between academic study and real-world applications. To mitigate this gap, we present Bird, a big benchmark for large-scale database grounded in text-to-SQL tasks, containing 12,751 pairs of text-to-SQL data and 95 databases with a total size of 33.4 GB, spanning 37 professional domains. Our emphasis on database values highlights the new challenges of dirty database contents, external knowledge between NL questions and database contents, and SQL efficiency, particularly in the context of massive databases. To solve these problems, text-to-SQL models must feature database value comprehension in addition to semantic parsing. The experimental results demonstrate the significance of database values in generating accurate text-to-SQLs for big databases. Furthermore, even the most effective text-to-SQL models, i.e. ChatGPT, only achieves 40.08% in execution accuracy, which is still far from the human result of 92.96%, proving that challenges still stand. Besides, we also provide an efficiency analysis to offer insights into generating text-to-efficient-SQLs that are beneficial to industries. We believe that BIRD will contribute to advancing real-world applications of text-to-SQL research. The leaderboard and source code are available: https://bird-bench.github.io/.*
 
 
