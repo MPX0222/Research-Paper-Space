@@ -459,7 +459,7 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
-> | [Github-Page](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird) | [Arxiv-Page](https://arxiv.org/pdf/2305.03111.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/can-llm-already-serve-as-a-database-interface) | OfficialWeb-Page | ✔ |
+> | [Github-Page](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird) | [Arxiv-Page](https://arxiv.org/pdf/2305.03111.pdf) | [PaperWithCode-Page](https://paperswithcode.com/paper/can-llm-already-serve-as-a-database-interface) | [OfficialWeb-Page](https://bird-bench.github.io/) | ✔ |
 >
 > ***· Tags** : **`Benchmark`** , **`Text-to-SQL`***
 >
@@ -470,7 +470,7 @@
 
 > | Github Link | Paper Link | PaperWithCode Link | Official Website Link | Is Read? |
 > |-------------|------------|--------------------|--------------------|------------|
-> | [Github-Page](https://github.com/taoyds/spider) | [Arxiv-Page](https://arxiv.org/abs/1809.08887) | [PaperWithCode-Page]() | OfficialWeb-Page | ✔ |
+> | [Github-Page](https://github.com/taoyds/spider) | [Arxiv-Page](https://arxiv.org/abs/1809.08887) | [PaperWithCode-Page]() | [OfficialWeb-Page](https://yale-lily.github.io/spider) | ✔ |
 >
 > ***· Tags** : **`Benchmark`** , **`Text-to-SQL`***
 >
